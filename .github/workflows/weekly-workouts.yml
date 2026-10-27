@@ -1,0 +1,32 @@
+name: Weekly workouts
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # Mondays at 9:00 UTC = 2 AM in Kelowna (1 AM in winter), an hour before the daily run
+  workflow_dispatch:       # "Run workflow" button in GitHub, for a fresh week any time
+
+permissions:
+  contents: write
+
+concurrency: drills-publish   # never push at the same moment as the daily job
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python generate.py weekly
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Publish this week's workouts
+        run: |
+          git config user.name "PGL weekly workouts"
+          git config user.email "actions@users.noreply.github.com"
+          git add weekly.json archive
+          git diff --cached --quiet || git commit -m "Weekly workouts $(date -u +%F)"
+          git pull --rebase
+          git push

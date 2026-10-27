@@ -1,0 +1,32 @@
+name: Daily drills
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # every day at 10:00 UTC = 3 AM in Kelowna (2 AM in winter)
+  workflow_dispatch:        # "Run workflow" button in GitHub, for a fresh set any time
+
+permissions:
+  contents: write
+
+concurrency: drills-publish   # never push at the same moment as the weekly job
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python generate.py daily
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Publish today's drills
+        run: |
+          git config user.name "PGL daily drills"
+          git config user.email "actions@users.noreply.github.com"
+          git add today.json archive
+          git diff --cached --quiet || git commit -m "Daily drills $(date -u +%F)"
+          git pull --rebase
+          git push

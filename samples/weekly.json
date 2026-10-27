@@ -1,0 +1,381 @@
+{
+  "week": "2026-10-12",
+  "workouts": [
+    {
+      "id": "daily-handles",
+      "summary": "Sample week for testing. The real one is written by Claude every Monday.",
+      "drills": [
+        {
+          "id": "week-2026-10-12-daily-handles-1",
+          "name": "Figure-8 Flow",
+          "category": "BH",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Figure-8 Flow).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-daily-handles-2",
+          "name": "Retreat & Re-Attack",
+          "category": "BH",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Retreat & Re-Attack).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-daily-handles-3",
+          "name": "Crossover Ladder",
+          "category": "BH",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Crossover Ladder).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guard-iq",
+      "summary": "Sample week for testing. The real one is written by Claude every Monday.",
+      "drills": [
+        {
+          "id": "week-2026-10-12-guard-iq-1",
+          "name": "Film: Help-Side Rotations",
+          "category": "IQ",
+          "seconds": 600,
+          "equipment": "Game film on a phone or laptop",
+          "summary": "Sample film task for testing (help-side rotations).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Watch it",
+            "Name it"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-guard-iq-2",
+          "name": "Film: Transition Decisions",
+          "category": "IQ",
+          "seconds": 600,
+          "equipment": "Game film on a phone or laptop",
+          "summary": "Sample film task for testing (transition decisions).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Watch it",
+            "Name it"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-guard-iq-3",
+          "name": "Film: Spacing Spots",
+          "category": "IQ",
+          "seconds": 600,
+          "equipment": "Game film on a phone or laptop",
+          "summary": "Sample film task for testing (floor spacing).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Watch it",
+            "Name it"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "score-the-rim",
+      "summary": "Sample week for testing. The real one is written by Claude every Monday.",
+      "drills": [
+        {
+          "id": "week-2026-10-12-score-the-rim-1",
+          "name": "Speed Dribble Lanes",
+          "category": "BH",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Speed Dribble Lanes).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-score-the-rim-2",
+          "name": "Floater Range",
+          "category": "FN",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Floater Range).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-score-the-rim-3",
+          "name": "Reverse Finishes",
+          "category": "FN",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Reverse Finishes).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-score-the-rim-4",
+          "name": "Two-Foot Power Ups",
+          "category": "FN",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Two-Foot Power Ups).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shot-lab",
+      "summary": "Sample week for testing. The real one is written by Claude every Monday.",
+      "drills": [
+        {
+          "id": "week-2026-10-12-shot-lab-1",
+          "name": "One-Hand Warm-Up",
+          "category": "SH",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (One-Hand Warm-Up).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-shot-lab-2",
+          "name": "Corner Catch Series",
+          "category": "SH",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Corner Catch Series).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-shot-lab-3",
+          "name": "Step-Back Elbows",
+          "category": "SH",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Step-Back Elbows).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lockdown",
+      "summary": "Sample week for testing. The real one is written by Claude every Monday.",
+      "drills": [
+        {
+          "id": "week-2026-10-12-lockdown-1",
+          "name": "Mirror Slides",
+          "category": "DF",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Mirror Slides).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-lockdown-2",
+          "name": "Wall Up Drill",
+          "category": "DF",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Wall Up Drill).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-lockdown-3",
+          "name": "Closeout to Contain",
+          "category": "DF",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Closeout to Contain).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "engine",
+      "summary": "Sample week for testing. The real one is written by Claude every Monday.",
+      "drills": [
+        {
+          "id": "week-2026-10-12-engine-1",
+          "name": "17s",
+          "category": "CN",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (17s).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-engine-2",
+          "name": "Baseline Burpee-Free Sprints",
+          "category": "CN",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Baseline Burpee-Free Sprints).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-engine-3",
+          "name": "Slide-Sprint Combo",
+          "category": "DF",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Slide-Sprint Combo).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        },
+        {
+          "id": "week-2026-10-12-engine-4",
+          "name": "Suicide Ladder",
+          "category": "CN",
+          "seconds": 150,
+          "equipment": "1 ball",
+          "summary": "Sample drill for testing (Suicide Ladder).",
+          "steps": [
+            "Sample step one.",
+            "Sample step two.",
+            "Sample step three."
+          ],
+          "cues": [
+            "Eyes up",
+            "Stay low"
+          ]
+        }
+      ]
+    }
+  ]
+}

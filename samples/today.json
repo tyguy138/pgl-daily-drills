@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-17",
+  "name": "Downhill Day",
+  "summary": "Sample file for testing. The real one is written by Claude every morning.",
+  "drills": [
+    {"id": "daily-2026-10-17-1", "name": "Spin & Stop", "category": "BH", "seconds": 120, "equipment": "1 ball",
+     "summary": "Spin dribble into a hard jump-stop, then explode back out.",
+     "steps": ["Dribble at half-court speed toward the elbow.", "Spin off an imaginary defender.", "Land a two-foot jump-stop, ball tight to your chest.", "Rip it through and go the other way."],
+     "cues": ["Tight spin", "Stop on balance", "Rip through"]},
+    {"id": "daily-2026-10-17-2", "name": "Elbow Pull-Up Ladder", "category": "SH", "seconds": 180, "equipment": "1 ball",
+     "summary": "One-dribble pull-ups from both elbows, stepping back each make.",
+     "steps": ["Start at the free-throw line, one dribble to the right elbow and pull up.", "Make it, take one step back.", "Miss it, start over.", "Switch to the left elbow halfway through."],
+     "cues": ["Hard last dribble", "Straight up", "Hold the finish"]},
+    {"id": "daily-2026-10-17-3", "name": "Inside-Hand Finishes", "category": "FN", "seconds": 180, "equipment": "1 ball, 1 cone",
+     "summary": "Finish with the hand away from the help defender.",
+     "steps": ["Put a cone on the block as the help defender.", "Drive from the wing toward the cone.", "Finish high off the glass with the hand farthest from the cone.", "Alternate sides every rep."],
+     "cues": ["Ball high", "Use the glass", "Away from help"]},
+    {"id": "daily-2026-10-17-4", "name": "Sideline Sprints", "category": "CN", "seconds": 120, "equipment": "None",
+     "summary": "Sideline to sideline sprints with a defensive slide back.",
+     "steps": ["Start on one sideline in your stance.", "Sprint to the far sideline and touch it.", "Defensive slide back halfway, then sprint to finish.", "Rest 15 seconds, repeat."],
+     "cues": ["Touch the line", "Stay low", "Finish strong"]}
+  ]
+}
