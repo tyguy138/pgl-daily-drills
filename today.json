@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-27",
+  "name": "Tuesday Grind",
+  "summary": "Tight handles, quick reads, crafty finishes, then shots on tired legs.",
+  "drills": [
+    {
+      "id": "daily-2026-10-27-1",
+      "name": "Pocket Pickup Series",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Hide the ball in your pocket, then snap it out to attack.",
+      "steps": [
+        "Stand in an athletic stance with the ball on your right hip.",
+        "Dribble and pull the ball back into your hip pocket on every bounce for 30 seconds.",
+        "Add a snap crossover out of the pocket every third dribble.",
+        "Switch to your left hand and repeat.",
+        "Finish with 30 seconds alternating hands, pocket to crossover."
+      ],
+      "cues": [
+        "Ball on hip",
+        "Eyes up",
+        "Snap it across"
+      ]
+    },
+    {
+      "id": "daily-2026-10-27-2",
+      "name": "Finger Flash Drives",
+      "category": "IQ",
+      "seconds": 180,
+      "equipment": "1 ball, partner, 1 cone",
+      "summary": "Read your partner's signal fast and make the right play.",
+      "steps": [
+        "Set a cone at the top of the key. Your partner stands under the rim.",
+        "Dribble at the cone. As you reach it, your partner flashes one, two or three fingers.",
+        "One finger: drive right for a layup. Two: drive left for a layup. Three: pull up for a jumper.",
+        "Your partner rebounds and passes back. Go again right away.",
+        "Partner flashes later each rep to make you read faster."
+      ],
+      "cues": [
+        "See it early",
+        "Decide, then go",
+        "No hesitation"
+      ]
+    },
+    {
+      "id": "daily-2026-10-27-3",
+      "name": "Same-Foot Finishes",
+      "category": "FN",
+      "seconds": 210,
+      "equipment": "1 ball",
+      "summary": "Jump off the same-side foot to throw off the shot blocker's timing.",
+      "steps": [
+        "Start at the right wing. Take two hard dribbles toward the rim.",
+        "Jump off your right foot and finish with your right hand off the glass.",
+        "Do 5 reps, then switch to the left wing: left foot, left hand.",
+        "Next round, finish with the opposite hand on the same-foot jump.",
+        "Keep each finish soft, high off the glass."
+      ],
+      "cues": [
+        "Quick off one",
+        "Chin the ball",
+        "Soft off glass"
+      ]
+    },
+    {
+      "id": "daily-2026-10-27-4",
+      "name": "Sprint-Back Elbows",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Make game-speed jumpers when your legs are burning.",
+      "steps": [
+        "Start on the baseline with the ball.",
+        "Sprint with the ball to half-court, touch the line, and dribble back hard.",
+        "Pull up at the right elbow and shoot. Get your own rebound.",
+        "Repeat, pulling up at the left elbow next.",
+        "Count your makes. Try to beat it next week."
+      ],
+      "cues": [
+        "Stop on balance",
+        "Legs into shot",
+        "Hold the finish"
+      ]
+    }
+  ]
+}
