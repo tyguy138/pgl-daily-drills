@@ -1,86 +1,84 @@
 {
-  "date": "2026-10-27",
-  "name": "Tuesday Grind",
-  "summary": "Tight handles, quick reads, crafty finishes, then shots on tired legs.",
+  "date": "2026-10-28",
+  "name": "Hump Day Heat",
+  "summary": "Tight handles, quick-release shooting, a live help-side read and a free throw finisher to push you through the middle of the week.",
   "drills": [
     {
-      "id": "daily-2026-10-27-1",
-      "name": "Pocket Pickup Series",
+      "id": "daily-2026-10-28-1",
+      "name": "Phone Booth Dribbling",
       "category": "BH",
       "seconds": 180,
-      "equipment": "1 ball",
-      "summary": "Hide the ball in your pocket, then snap it out to attack.",
+      "equipment": "1 ball, 4 cones",
+      "summary": "Keep the ball alive in a tiny space without losing it or looking down.",
       "steps": [
-        "Stand in an athletic stance with the ball on your right hip.",
-        "Dribble and pull the ball back into your hip pocket on every bounce for 30 seconds.",
-        "Add a snap crossover out of the pocket every third dribble.",
-        "Switch to your left hand and repeat.",
-        "Finish with 30 seconds alternating hands, pocket to crossover."
+        "Set 4 cones in a small square, about one big step apart.",
+        "Stand in the box and pound the ball low for 20 seconds with each hand.",
+        "Go between the legs, behind the back and crossover without touching a cone.",
+        "Finish with 30 seconds of any combo moves at full speed."
       ],
       "cues": [
-        "Ball on hip",
         "Eyes up",
-        "Snap it across"
+        "Stay low",
+        "Quick hands"
       ]
     },
     {
-      "id": "daily-2026-10-27-2",
-      "name": "Finger Flash Drives",
-      "category": "IQ",
-      "seconds": 180,
-      "equipment": "1 ball, partner, 1 cone",
-      "summary": "Read your partner's signal fast and make the right play.",
-      "steps": [
-        "Set a cone at the top of the key. Your partner stands under the rim.",
-        "Dribble at the cone. As you reach it, your partner flashes one, two or three fingers.",
-        "One finger: drive right for a layup. Two: drive left for a layup. Three: pull up for a jumper.",
-        "Your partner rebounds and passes back. Go again right away.",
-        "Partner flashes later each rep to make you read faster."
-      ],
-      "cues": [
-        "See it early",
-        "Decide, then go",
-        "No hesitation"
-      ]
-    },
-    {
-      "id": "daily-2026-10-27-3",
-      "name": "Same-Foot Finishes",
-      "category": "FN",
-      "seconds": 210,
-      "equipment": "1 ball",
-      "summary": "Jump off the same-side foot to throw off the shot blocker's timing.",
-      "steps": [
-        "Start at the right wing. Take two hard dribbles toward the rim.",
-        "Jump off your right foot and finish with your right hand off the glass.",
-        "Do 5 reps, then switch to the left wing: left foot, left hand.",
-        "Next round, finish with the opposite hand on the same-foot jump.",
-        "Keep each finish soft, high off the glass."
-      ],
-      "cues": [
-        "Quick off one",
-        "Chin the ball",
-        "Soft off glass"
-      ]
-    },
-    {
-      "id": "daily-2026-10-27-4",
-      "name": "Sprint-Back Elbows",
+      "id": "daily-2026-10-28-2",
+      "name": "Spin-Out Jumpers",
       "category": "SH",
       "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Make game-speed jumpers when your legs are burning.",
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Toss to yourself, catch on balance, and get a clean shot off fast.",
       "steps": [
-        "Start on the baseline with the ball.",
-        "Sprint with the ball to half-court, touch the line, and dribble back hard.",
-        "Pull up at the right elbow and shoot. Get your own rebound.",
-        "Repeat, pulling up at the left elbow next.",
-        "Count your makes. Try to beat it next week."
+        "Start at the elbow facing the hoop.",
+        "Spin the ball out in front of you with backspin so it bounces once.",
+        "Catch it with a 1-2 step, square up and shoot.",
+        "Rotate through 5 spots inside the arc. Make 3 at each spot before moving."
       ],
       "cues": [
-        "Stop on balance",
-        "Legs into shot",
-        "Hold the finish"
+        "Hop into it",
+        "Feet set first",
+        "Hold the follow-through"
+      ]
+    },
+    {
+      "id": "daily-2026-10-28-3",
+      "name": "Help or Hold Read",
+      "category": "IQ",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, partner",
+      "summary": "Drive the lane, read the help defender late, and pick the right finish.",
+      "steps": [
+        "Partner stands on the opposite block as the help defender, hands up. No contact.",
+        "Start on the wing and attack the middle with two hard dribbles.",
+        "If your partner steps into the lane, stop short and shoot a floater over them.",
+        "If your partner stays home, finish all the way at the rim.",
+        "Switch sides every 5 reps. Partner mixes it up so you can't guess."
+      ],
+      "cues": [
+        "See the help",
+        "Read it late",
+        "Pick your finish"
+      ]
+    },
+    {
+      "id": "daily-2026-10-28-4",
+      "name": "Free Throw Fatigue",
+      "category": "CN",
+      "seconds": 300,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Shoot free throws with your legs burning, just like the fourth quarter.",
+      "steps": [
+        "Start on the baseline with the ball.",
+        "Sprint to half court and back twice, dribbling the ball.",
+        "Walk to the free throw line and shoot 2 free throws.",
+        "Rest 15 seconds, then repeat until the timer ends.",
+        "Count your makes and try to beat it next time."
+      ],
+      "cues": [
+        "Breathe, then shoot",
+        "Same routine",
+        "Sprint through the line"
       ]
     }
   ]

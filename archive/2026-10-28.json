@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-28",
+  "name": "Hump Day Heat",
+  "summary": "Tight handles, quick-release shooting, a live help-side read and a free throw finisher to push you through the middle of the week.",
+  "drills": [
+    {
+      "id": "daily-2026-10-28-1",
+      "name": "Phone Booth Dribbling",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball, 4 cones",
+      "summary": "Keep the ball alive in a tiny space without losing it or looking down.",
+      "steps": [
+        "Set 4 cones in a small square, about one big step apart.",
+        "Stand in the box and pound the ball low for 20 seconds with each hand.",
+        "Go between the legs, behind the back and crossover without touching a cone.",
+        "Finish with 30 seconds of any combo moves at full speed."
+      ],
+      "cues": [
+        "Eyes up",
+        "Stay low",
+        "Quick hands"
+      ]
+    },
+    {
+      "id": "daily-2026-10-28-2",
+      "name": "Spin-Out Jumpers",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Toss to yourself, catch on balance, and get a clean shot off fast.",
+      "steps": [
+        "Start at the elbow facing the hoop.",
+        "Spin the ball out in front of you with backspin so it bounces once.",
+        "Catch it with a 1-2 step, square up and shoot.",
+        "Rotate through 5 spots inside the arc. Make 3 at each spot before moving."
+      ],
+      "cues": [
+        "Hop into it",
+        "Feet set first",
+        "Hold the follow-through"
+      ]
+    },
+    {
+      "id": "daily-2026-10-28-3",
+      "name": "Help or Hold Read",
+      "category": "IQ",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, partner",
+      "summary": "Drive the lane, read the help defender late, and pick the right finish.",
+      "steps": [
+        "Partner stands on the opposite block as the help defender, hands up. No contact.",
+        "Start on the wing and attack the middle with two hard dribbles.",
+        "If your partner steps into the lane, stop short and shoot a floater over them.",
+        "If your partner stays home, finish all the way at the rim.",
+        "Switch sides every 5 reps. Partner mixes it up so you can't guess."
+      ],
+      "cues": [
+        "See the help",
+        "Read it late",
+        "Pick your finish"
+      ]
+    },
+    {
+      "id": "daily-2026-10-28-4",
+      "name": "Free Throw Fatigue",
+      "category": "CN",
+      "seconds": 300,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Shoot free throws with your legs burning, just like the fourth quarter.",
+      "steps": [
+        "Start on the baseline with the ball.",
+        "Sprint to half court and back twice, dribbling the ball.",
+        "Walk to the free throw line and shoot 2 free throws.",
+        "Rest 15 seconds, then repeat until the timer ends.",
+        "Count your makes and try to beat it next time."
+      ],
+      "cues": [
+        "Breathe, then shoot",
+        "Same routine",
+        "Sprint through the line"
+      ]
+    }
+  ]
+}
