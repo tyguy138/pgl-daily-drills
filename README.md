@@ -7,13 +7,14 @@ Two GitHub jobs ask Claude (Opus 5.5) for fresh workouts in Point Guard Lab's st
 - **Every Monday** (about 2 AM), `generate.py weekly` writes `weekly.json`: new drills for each regular
   workout (Handles, Basketball IQ, Score at the Rim, Shot Lab, Lockdown, Engine). **The names and focus stay the
   same**; only the drills inside change. Handles stays ball handling, Lockdown stays defense, and so on.
+  Each workout comes in three levels (Beginner, Intermediate, Advanced), so the weekly job asks Claude three times.
 
 The iPhone app downloads both when it opens. If the daily file is missing or old, the app uses a built-in
 workout for the Workout of the Day. If a Monday update fails, the app keeps last week's drills (or the
 built-in ones if it has never had a week).
 
-- **Cost:** about $0.10 a day for the daily workout plus about $0.30 a week for the weekly set, roughly
-  $4-5 a month in total, however many players use the app.
+- **Cost:** about $0.10 a day for the daily workout plus about $0.90 a week for the weekly set (three levels), roughly
+  $6-7 a month in total, however many players use the app.
 - **Basketball IQ is film study only** (Tyler's choice, Oct 26): each week it gets 3 new 10-minute film tasks, like
   "Watch 10 minutes of game film and watch pick-and-roll coverages". No on-court drills.
 - **Weekly checks:** every workout present once, the right number of drills, and only drills that fit the

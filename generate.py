@@ -39,6 +39,14 @@ BUILT_IN = [
     "Catch & Shoot", "Stance & Slides", "Zig-Zag", "Closeouts", "Line Touches",
     "Lane Agility", "Full-Court Layups",
     "Film: Off-Ball Movement", "Film: Pick-and-Roll Coverages", "Film: Point Guard Decisions",
+    # Beginner and Advanced levels (Oct 29)
+    "Stationary Basics", "Figure 8", "Walking Crossovers", "Tennis Ball Toss", "Two-Ball Combos",
+    "Combo Move Gauntlet", "Film: Follow One Player", "Film: Find the Spacing", "Film: Scout an Opponent",
+    "Film: Late-Game Decisions", "Film: Help Defense Rotations", "Basic Layups", "Power Layups",
+    "Floater Series", "Reverse & Up-and-Under", "Speed Finishes", "Free Throw Routine", "Close Spot Shots",
+    "Off-Screen Shooting", "Step-Backs & Side-Steps", "Beat the Pro", "Mirror Slides", "Closeout Footwork",
+    "1-on-1 Contain", "Closeout to Contain", "Deny the Wing", "Defensive Slide Gauntlet", "Jog & Sprint",
+    "Jump Rope", "17s", "Sprint & Shoot",
 ]
 
 
@@ -105,7 +113,7 @@ class DailyWorkout(BaseModel):
 class WeeklyWorkout(BaseModel):
     id: str
     summary: str = Field(min_length=10, max_length=140)
-    drills: List[Drill] = Field(min_length=3, max_length=4)
+    drills: List[Drill] = Field(min_length=2, max_length=4)
 
 
 class WeeklySet(BaseModel):
@@ -204,6 +212,7 @@ def names_in(paths: List[Path]) -> List[str]:
         except (OSError, ValueError):
             continue
         workouts = data.get("workouts") or [data]
+        workouts += [w for entries in data.get("levels", {}).values() for w in entries]
         names += [d.get("name", "") for w in workouts for d in w.get("drills", [])]
     return [n for n in names if n]
 
@@ -330,70 +339,112 @@ def run_daily(client: anthropic.Anthropic) -> int:
 
 # MARK: - Weekly (the regular workouts, same names, new drills)
 
-def weekly_prompt(monday: datetime, avoid: List[str]) -> str:
+# Each regular workout comes in three difficulty levels (added Oct 29 from tester feedback). Intermediate is
+# the original workout and stays in weekly.json's "workouts" list, so older app builds keep working; beginner
+# and advanced go in "levels". Must match Difficulty in the app (PGL/Models/Drill.swift).
+LEVELS = {
+    "intermediate": "Intermediate: players with some training behind them. Game speed once the move is clean.",
+    "beginner": "Beginner: newer players, often grade 9 or new to training. Basic movements at a controlled speed, "
+                "one skill at a time, simple steps. Shorter drills (60-180 seconds). Film tasks study one simple "
+                "thing (one player, one action).",
+    "advanced": "Advanced: experienced varsity and university guards. Full game speed, combo moves, decisions "
+                "under pressure and while tired. Longer drills (180-360 seconds). Film tasks go deeper: scouting, "
+                "several reads at once, late-game decisions.",
+}
+MINUTES = {"beginner": "6-12", "intermediate": "8-16", "advanced": "12-20"}
+
+
+def drill_count(theme: Theme, level: str) -> int:
+    if level == "beginner":
+        return 2 if theme.film else 3
+    if level == "advanced":
+        return 3 if theme.film else 4
+    return theme.drills
+
+
+def weekly_prompt(monday: datetime, avoid: List[str], level: str) -> str:
     lines = "\n".join(
-        f'- id "{wid}" ({t.name}): {t.focus}. Exactly {t.drills} drills, categories {"/".join(t.allowed)} '
-        f"only, at least {t.min_main} of them {t.must_have}. Setting: {t.setting}."
+        f'- id "{wid}" ({t.name}): {t.focus}. Exactly {drill_count(t, level)} drills, categories '
+        f'{"/".join(t.allowed)} only, at least {min(t.min_main, drill_count(t, level))} of them {t.must_have}. '
+        f"Setting: {t.setting}."
         for wid, t in THEMES.items()
     )
-    return f"""Write this week's drills for the app's regular workouts (week of {monday:%B %-d}). \
-Each workout keeps its name and focus; only the drills are new this week.
+    return f"""Write this week's drills for the app's regular workouts (week of {monday:%B %-d}), \
+{level} level. Each workout keeps its name and focus; only the drills are new this week.
+
+Level: {LEVELS[level]}
 
 {lines}
 
 - Return every workout above exactly once, using its id.
 - For each, a one-sentence summary of this week's version, and its drills in the order to do them \
-(easier first, hardest last). Each workout is 8-16 minutes of work, except Basketball IQ.
-- Basketball IQ is film study only: {THEMES["guard-iq"].drills} film tasks of exactly 600 seconds (10 minutes) each, \
+(easier first, hardest last). Each workout is {MINUTES[level]} minutes of work, except Basketball IQ.
+- Basketball IQ is film study only: film tasks of exactly 600 seconds (10 minutes) each, \
 each studying something different. No on-court drills.
 - Every drill name must be different across the whole week.
 - Make the drills new. Don't reuse or lightly rename any of these: {", ".join(avoid)}."""
 
 
-def ask_weekly(client: anthropic.Anthropic, prompt: str) -> WeeklySet:
+def ask_weekly(client: anthropic.Anthropic, prompt: str, level: str) -> WeeklySet:
     week = WeeklySet.model_validate_json(call_claude(client, prompt, WEEKLY_SCHEMA))
     ids = [w.id for w in week.workouts]
     if sorted(ids) != sorted(THEMES):
         raise ValueError(f"wrong workouts: {ids}")
     for w in week.workouts:
         theme = THEMES[w.id]
-        if len(w.drills) != theme.drills:
-            raise ValueError(f"{theme.name} has {len(w.drills)} drills, needs {theme.drills}")
+        count = drill_count(theme, level)
+        if len(w.drills) != count:
+            raise ValueError(f"{theme.name} has {len(w.drills)} drills, needs {count}")
         off = [d.name for d in w.drills if d.category not in theme.allowed]
         if off:
             raise ValueError(f"{theme.name} has off-focus drills: {off}")
         check_length(w.drills, film=theme.film)
-        if sum(d.category == theme.must_have for d in w.drills) < theme.min_main:
+        if sum(d.category == theme.must_have for d in w.drills) < min(theme.min_main, count):
             raise ValueError(f"{theme.name} doesn't have enough {theme.must_have} drills")
     check_new([d for w in week.workouts for d in w.drills])
     return week
 
 
+def weekly_entries(week: WeeklySet, stamp: str, level: str) -> List[dict]:
+    order = list(THEMES)
+    tag = "" if level == "intermediate" else f"{level}-"
+    return [
+        {
+            "id": w.id,
+            "summary": w.summary,
+            "drills": [{"id": f"week-{stamp}-{tag}{w.id}-{i + 1}", **d.model_dump()} for i, d in enumerate(w.drills)],
+        }
+        for w in sorted(week.workouts, key=lambda w: order.index(w.id))
+    ]
+
+
 def run_weekly(client: anthropic.Anthropic) -> int:
     today = now()
     monday = today - timedelta(days=today.weekday())
-    avoid = BUILT_IN + recent_weekly_names() + recent_daily_names(7)
-    week = with_retry(lambda: ask_weekly(client, weekly_prompt(monday, avoid)))
-    if week is None:
-        print("No valid weekly set; leaving last week's file in place.", file=sys.stderr)
-        return 1
-
     stamp = monday.strftime("%Y-%m-%d")
-    order = list(THEMES)
+    avoid = BUILT_IN + recent_weekly_names() + recent_daily_names(7)
+
+    sets: Dict[str, List[dict]] = {}
+    for level in LEVELS:   # intermediate first: without it there's no new week at all
+        week = with_retry(lambda: ask_weekly(client, weekly_prompt(monday, avoid, level), level))
+        if week is None:
+            if level == "intermediate":
+                print("No valid weekly set; leaving last week's file in place.", file=sys.stderr)
+                return 1
+            print(f"No valid {level} set; the app uses its built-in {level} workouts this week.", file=sys.stderr)
+            continue
+        sets[level] = weekly_entries(week, stamp, level)
+        avoid += [d.name for w in week.workouts for d in w.drills]   # every level gets its own drills
+
     payload = {
         "week": stamp,
-        "workouts": [
-            {
-                "id": w.id,
-                "summary": w.summary,
-                "drills": [{"id": f"week-{stamp}-{w.id}-{i + 1}", **d.model_dump()} for i, d in enumerate(w.drills)],
-            }
-            for w in sorted(week.workouts, key=lambda w: order.index(w.id))
-        ],
+        "workouts": sets["intermediate"],
+        "levels": {level: entries for level, entries in sets.items() if level != "intermediate"},
     }
     save(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", WEEKLY_FILE, WEEKLY_ARCHIVE / f"{stamp}.json")
-    for w in payload["workouts"]:
-        print(f"{THEMES[w['id']].name}: " + ", ".join(d["name"] for d in w["drills"]))
+    for level, entries in sets.items():
+        for w in entries:
+            print(f"{THEMES[w['id']].name} ({level}): " + ", ".join(d["name"] for d in w["drills"]))
     return 0
 
 
