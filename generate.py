@@ -8,6 +8,7 @@ Needs the ANTHROPIC_API_KEY secret. Nothing here ships inside the iPhone app.
 """
 
 import json
+import re
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -272,19 +273,33 @@ def save(text: str, current: Path, archived: Path) -> None:
 # MARK: - Daily (Workout of the Day)
 
 def daily_prompt(day: datetime, avoid: List[str]) -> str:
-    return f"""Write today's Workout of the Day for {day:%A, %B %-d}.
+    return f"""Write today's Workout of the Day.
 
 - Exactly {DRILLS_PER_DAY} drills, in the order the player should do them (warm-up feel first, hardest last).
 - Cover at least three of these six areas: ball handling (BH), basketball IQ (IQ), shooting (SH), \
 finishing (FN), defense (DF), conditioning (CN).
 - The whole workout is 10-18 minutes of work.
 - At most one drill needs a partner. Everything else works solo with a ball, cones or nothing.
-- Give the workout a short, punchy name (2-3 words) and a one-sentence summary.
+- Name the workout plainly after its basketball focus, 2-4 words, like "Handles & Help Defense" or \
+"Shooting Off the Bounce". No days of the week, no puns, slang or slogans.
+- Give it a one-sentence summary of the work. Don't mention the day or the week.
 - Make these drills new. Don't reuse or lightly rename any of these: {", ".join(avoid)}."""
+
+
+# Workout names and summaries must not be day-of-the-week slogans (Tyler, Oct 28: "Hump Day Heat" was not OK).
+DAY_WORDS = re.compile(r"\b(monday|tuesday|wednesday|thursday|friday|saturday|sunday|hump|weekend|midweek|"
+                       r"mid-week|middle of the week|tgif)\b", re.IGNORECASE)
+
+
+def check_title(workout: DailyWorkout) -> None:
+    for text in (workout.name, workout.summary):
+        if DAY_WORDS.search(text):
+            raise ValueError(f"mentions the day: {text!r}")
 
 
 def ask_daily(client: anthropic.Anthropic, prompt: str) -> DailyWorkout:
     workout = DailyWorkout.model_validate_json(call_claude(client, prompt, DAILY_SCHEMA))
+    check_title(workout)
     skills = {SKILL_OF[d.category] for d in workout.drills}
     if len(skills) < 3:
         raise ValueError(f"only covers {sorted(skills)}")
