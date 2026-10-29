@@ -1,84 +1,86 @@
 {
-  "date": "2026-10-28",
-  "name": "Handles & Help Reads",
-  "summary": "Tight handles, quick-release shooting, a live help-side read and a free throw finisher when your legs are tired.",
+  "date": "2026-10-29",
+  "name": "Footwork & Finishing",
+  "summary": "Warm up your handle, then sharpen pivots, jump stops and finishes before a conditioning shooting test.",
   "drills": [
     {
-      "id": "daily-2026-10-28-1",
-      "name": "Phone Booth Dribbling",
+      "id": "daily-2026-10-29-1",
+      "name": "Rhythm Dribble Ladder",
       "category": "BH",
       "seconds": 180,
-      "equipment": "1 ball, 4 cones",
-      "summary": "Keep the ball alive in a tiny space without losing it or looking down.",
+      "equipment": "1 ball",
+      "summary": "Wake up your hands with a steady beat that builds from low to quick.",
       "steps": [
-        "Set 4 cones in a small square, about one big step apart.",
-        "Stand in the box and pound the ball low for 20 seconds with each hand.",
-        "Go between the legs, behind the back and crossover without touching a cone.",
-        "Finish with 30 seconds of any combo moves at full speed."
+        "Start in an athletic stance with the ball on your right side.",
+        "Do 10 low, hard dribbles, then 10 at knee height, then 10 at hip height.",
+        "Switch to your left hand and repeat the ladder.",
+        "Finish with 10 crossovers, 10 between the legs and 10 behind the back.",
+        "Keep going through the ladder until the timer ends."
       ],
       "cues": [
         "Eyes up",
-        "Stay low",
-        "Quick hands"
+        "Pound it hard",
+        "Stay low"
       ]
     },
     {
-      "id": "daily-2026-10-28-2",
-      "name": "Spin-Out Jumpers",
+      "id": "daily-2026-10-29-2",
+      "name": "Jump-Stop Pivot Series",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 cone",
+      "summary": "Stop on balance in the paint and use pivots to create a clean finish.",
+      "steps": [
+        "Set a cone at the free throw line. Start at half court.",
+        "Drive to the cone and land a two-foot jump stop just inside it.",
+        "Front pivot toward the rim and finish with a layup.",
+        "Next rep, reverse pivot away from the imaginary help, then finish.",
+        "Alternate drives from the left and right side each rep."
+      ],
+      "cues": [
+        "Land on two",
+        "Chin the ball",
+        "Pivot, then finish"
+      ]
+    },
+    {
+      "id": "daily-2026-10-29-3",
+      "name": "Elbow Turn & Shoot",
       "category": "SH",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Toss to yourself, catch on balance, and get a clean shot off fast.",
+      "equipment": "1 ball",
+      "summary": "Catch with your back to the rim, square up fast and knock down elbow jumpers.",
       "steps": [
-        "Start at the elbow facing the hoop.",
-        "Spin the ball out in front of you with backspin so it bounces once.",
-        "Catch it with a 1-2 step, square up and shoot.",
-        "Rotate through 5 spots inside the arc. Make 3 at each spot before moving."
+        "Stand at the right elbow facing half court.",
+        "Spin the ball out to yourself and catch it on a hop.",
+        "Pivot on your inside foot to face the rim and shoot.",
+        "Get your rebound and do 5 shots, then switch to the left elbow.",
+        "Alternate front and reverse pivots each round."
       ],
       "cues": [
-        "Hop into it",
         "Feet set first",
-        "Hold the follow-through"
+        "Square your toes",
+        "Hold the finish"
       ]
     },
     {
-      "id": "daily-2026-10-28-3",
-      "name": "Help or Hold Read",
-      "category": "IQ",
-      "seconds": 240,
-      "equipment": "1 ball, 1 hoop, partner",
-      "summary": "Drive the lane, read the help defender late, and pick the right finish.",
-      "steps": [
-        "Partner stands on the opposite block as the help defender, hands up. No contact.",
-        "Start on the wing and attack the middle with two hard dribbles.",
-        "If your partner steps into the lane, stop short and shoot a floater over them.",
-        "If your partner stays home, finish all the way at the rim.",
-        "Switch sides every 5 reps. Partner mixes it up so you can't guess."
-      ],
-      "cues": [
-        "See the help",
-        "Read it late",
-        "Pick your finish"
-      ]
-    },
-    {
-      "id": "daily-2026-10-28-4",
-      "name": "Free Throw Fatigue",
+      "id": "daily-2026-10-29-4",
+      "name": "Half-Court Sprint Shots",
       "category": "CN",
-      "seconds": 300,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Shoot free throws with your legs burning, just like the fourth quarter.",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Shoot tired after a sprint dribble, just like late in a game.",
       "steps": [
-        "Start on the baseline with the ball.",
-        "Sprint to half court and back twice, dribbling the ball.",
-        "Walk to the free throw line and shoot 2 free throws.",
-        "Rest 15 seconds, then repeat until the timer ends.",
-        "Count your makes and try to beat it next time."
+        "Start at the right elbow with the ball.",
+        "Speed dribble to half court, touch the line with your foot and dribble back.",
+        "Jump stop at the elbow and shoot.",
+        "Rebound, dribble to the left elbow and repeat the sprint.",
+        "Count your makes and try to beat the score next time."
       ],
       "cues": [
-        "Breathe, then shoot",
-        "Same routine",
-        "Sprint through the line"
+        "Sprint both ways",
+        "Stop on balance",
+        "Same shot tired"
       ]
     }
   ]
