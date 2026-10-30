@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-29",
-  "name": "Footwork & Finishing",
-  "summary": "Warm up your handle, then sharpen pivots, jump stops and finishes before a conditioning shooting test.",
+  "date": "2026-10-30",
+  "name": "Handles & Drive Reads",
+  "summary": "Warm up the handle, read a partner's signal on the drive, finish off the baseline, then attack the rim tired.",
   "drills": [
     {
-      "id": "daily-2026-10-29-1",
-      "name": "Rhythm Dribble Ladder",
+      "id": "daily-2026-10-30-1",
+      "name": "Low-High Rhythm Dribbles",
       "category": "BH",
       "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Wake up your hands with a steady beat that builds from low to quick.",
+      "summary": "Change dribble height on a beat to own your rhythm.",
       "steps": [
-        "Start in an athletic stance with the ball on your right side.",
-        "Do 10 low, hard dribbles, then 10 at knee height, then 10 at hip height.",
-        "Switch to your left hand and repeat the ladder.",
-        "Finish with 10 crossovers, 10 between the legs and 10 behind the back.",
-        "Keep going through the ladder until the timer ends."
+        "Stand in a low stance with the ball in your right hand.",
+        "Pound three low dribbles at knee height, then three high dribbles at waist height.",
+        "Keep the beat steady and don't look down.",
+        "Switch hands every 30 seconds.",
+        "Finish with a crossover between each low and high set."
       ],
       "cues": [
         "Eyes up",
-        "Pound it hard",
-        "Stay low"
+        "Pound it low",
+        "Stay in stance"
       ]
     },
     {
-      "id": "daily-2026-10-29-2",
-      "name": "Jump-Stop Pivot Series",
+      "id": "daily-2026-10-30-2",
+      "name": "Partner Signal Drives",
+      "category": "IQ",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, partner",
+      "summary": "Drive and react to what your partner shows you.",
+      "steps": [
+        "Start at the top of the key. Partner stands at the free throw line facing you.",
+        "Drive at your partner at game speed with your eyes up.",
+        "Partner shows one hand up for a pull-up, two hands up for a layup, or steps to a side for a crossover away.",
+        "Make the read before you reach the elbow, then finish the play.",
+        "Switch drive hands every 2 minutes."
+      ],
+      "cues": [
+        "See it early",
+        "Decide fast",
+        "Eyes on partner"
+      ]
+    },
+    {
+      "id": "daily-2026-10-30-3",
+      "name": "Baseline Drive Finishes",
       "category": "FN",
       "seconds": 240,
-      "equipment": "1 ball, 1 cone",
-      "summary": "Stop on balance in the paint and use pivots to create a clean finish.",
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Attack the baseline and finish with the right hand on the right side.",
       "steps": [
-        "Set a cone at the free throw line. Start at half court.",
-        "Drive to the cone and land a two-foot jump stop just inside it.",
-        "Front pivot toward the rim and finish with a layup.",
-        "Next rep, reverse pivot away from the imaginary help, then finish.",
-        "Alternate drives from the left and right side each rep."
+        "Start on the right wing with the ball.",
+        "Jab, then take one hard dribble to the baseline.",
+        "Two dribbles max to the rim. Finish with your right hand.",
+        "Next rep, finish on the far side of the rim as a reverse.",
+        "Switch to the left wing after 2 minutes and use your left hand."
       ],
       "cues": [
-        "Land on two",
-        "Chin the ball",
-        "Pivot, then finish"
+        "Hug the baseline",
+        "Rim side hand",
+        "Soft off glass"
       ]
     },
     {
-      "id": "daily-2026-10-29-3",
-      "name": "Elbow Turn & Shoot",
-      "category": "SH",
-      "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Catch with your back to the rim, square up fast and knock down elbow jumpers.",
-      "steps": [
-        "Stand at the right elbow facing half court.",
-        "Spin the ball out to yourself and catch it on a hop.",
-        "Pivot on your inside foot to face the rim and shoot.",
-        "Get your rebound and do 5 shots, then switch to the left elbow.",
-        "Alternate front and reverse pivots each round."
-      ],
-      "cues": [
-        "Feet set first",
-        "Square your toes",
-        "Hold the finish"
-      ]
-    },
-    {
-      "id": "daily-2026-10-29-4",
-      "name": "Half-Court Sprint Shots",
+      "id": "daily-2026-10-30-4",
+      "name": "Half-Court Attack Intervals",
       "category": "CN",
       "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Shoot tired after a sprint dribble, just like late in a game.",
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Sprint the ball to the rim and finish while your legs are tired.",
       "steps": [
-        "Start at the right elbow with the ball.",
-        "Speed dribble to half court, touch the line with your foot and dribble back.",
-        "Jump stop at the elbow and shoot.",
-        "Rebound, dribble to the left elbow and repeat the sprint.",
-        "Count your makes and try to beat the score next time."
+        "Start at half court with the ball.",
+        "Speed dribble to the rim and finish with a layup.",
+        "Grab the ball and backpedal to half court.",
+        "Repeat for 30 seconds, then rest 30 seconds.",
+        "Do 4 rounds. Alternate finishing hands each rep."
       ],
       "cues": [
-        "Sprint both ways",
-        "Stop on balance",
-        "Same shot tired"
+        "Push the pace",
+        "Finish strong",
+        "Breathe on rest"
       ]
     }
   ]
