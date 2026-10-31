@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-31",
+  "name": "Attacking the Mid-Range",
+  "summary": "Sharpen your in-and-out dribble, hit hop-in jumpers, finish with a long gather, then push your legs with a slide-and-sprint circuit.",
+  "drills": [
+    {
+      "id": "daily-2026-10-31-1",
+      "name": "In-and-Out Rhythm",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Sell a crossover with your hand and shoulders, then keep the ball on the same side.",
+      "steps": [
+        "Start in a low stance with the ball in your right hand.",
+        "Push the ball toward your left side, then pull it back out with the same hand.",
+        "Turn your wrist over the top of the ball on every pull back.",
+        "Do 30 seconds per hand, then walk forward doing it.",
+        "Finish with an in-and-out into one hard dribble attack each way."
+      ],
+      "cues": [
+        "Eyes up",
+        "Sell it with shoulders",
+        "Hand on top"
+      ]
+    },
+    {
+      "id": "daily-2026-10-31-2",
+      "name": "Hop-In Mid-Range",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Hop into your shot off one dribble so your feet land ready every time.",
+      "steps": [
+        "Start at the top of the key, a step past the three-point line.",
+        "Take one hard dribble toward the elbow.",
+        "Pick up the ball and hop, landing on both feet at the same time.",
+        "Rise straight up and shoot. Hold your follow-through.",
+        "Go right elbow, left elbow, then both short corners. Make 5 at each spot."
+      ],
+      "cues": [
+        "Two feet land",
+        "Shoulders square",
+        "Hold the finish"
+      ]
+    },
+    {
+      "id": "daily-2026-10-31-3",
+      "name": "Long Gather Finishes",
+      "category": "FN",
+      "seconds": 180,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Use a long last step to get around a defender and finish soft off the glass.",
+      "steps": [
+        "Start at the wing, just inside the three-point line.",
+        "Drive hard toward the block with your outside hand.",
+        "Gather and take a long last step past an imaginary defender.",
+        "Finish high off the glass with the hand farthest from the defender.",
+        "Do 5 makes each side, then switch to finishing on the other side of the rim."
+      ],
+      "cues": [
+        "Long last step",
+        "Protect the ball",
+        "Soft off glass"
+      ]
+    },
+    {
+      "id": "daily-2026-10-31-4",
+      "name": "Slide-Sprint Combo Circuit",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball, 2 cones, 1 hoop",
+      "summary": "Defend, sprint and score while you are tired, just like late in a game.",
+      "steps": [
+        "Set one cone on each block. Put the ball at half court.",
+        "Defensive slide from cone to cone and back, twice.",
+        "Sprint to half court and pick up the ball.",
+        "Speed dribble back and finish with a layup.",
+        "Rest 15 seconds, then go again. Keep going until time is up."
+      ],
+      "cues": [
+        "Stay low",
+        "Sprint through",
+        "Finish strong"
+      ]
+    }
+  ]
+}

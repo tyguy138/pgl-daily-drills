@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-30",
-  "name": "Handles & Drive Reads",
-  "summary": "Warm up the handle, read a partner's signal on the drive, finish off the baseline, then attack the rim tired.",
+  "date": "2026-10-31",
+  "name": "Attacking the Mid-Range",
+  "summary": "Sharpen your in-and-out dribble, hit hop-in jumpers, finish with a long gather, then push your legs with a slide-and-sprint circuit.",
   "drills": [
     {
-      "id": "daily-2026-10-30-1",
-      "name": "Low-High Rhythm Dribbles",
+      "id": "daily-2026-10-31-1",
+      "name": "In-and-Out Rhythm",
       "category": "BH",
       "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Change dribble height on a beat to own your rhythm.",
+      "summary": "Sell a crossover with your hand and shoulders, then keep the ball on the same side.",
       "steps": [
-        "Stand in a low stance with the ball in your right hand.",
-        "Pound three low dribbles at knee height, then three high dribbles at waist height.",
-        "Keep the beat steady and don't look down.",
-        "Switch hands every 30 seconds.",
-        "Finish with a crossover between each low and high set."
+        "Start in a low stance with the ball in your right hand.",
+        "Push the ball toward your left side, then pull it back out with the same hand.",
+        "Turn your wrist over the top of the ball on every pull back.",
+        "Do 30 seconds per hand, then walk forward doing it.",
+        "Finish with an in-and-out into one hard dribble attack each way."
       ],
       "cues": [
         "Eyes up",
-        "Pound it low",
-        "Stay in stance"
+        "Sell it with shoulders",
+        "Hand on top"
       ]
     },
     {
-      "id": "daily-2026-10-30-2",
-      "name": "Partner Signal Drives",
-      "category": "IQ",
-      "seconds": 240,
-      "equipment": "1 ball, 1 hoop, partner",
-      "summary": "Drive and react to what your partner shows you.",
-      "steps": [
-        "Start at the top of the key. Partner stands at the free throw line facing you.",
-        "Drive at your partner at game speed with your eyes up.",
-        "Partner shows one hand up for a pull-up, two hands up for a layup, or steps to a side for a crossover away.",
-        "Make the read before you reach the elbow, then finish the play.",
-        "Switch drive hands every 2 minutes."
-      ],
-      "cues": [
-        "See it early",
-        "Decide fast",
-        "Eyes on partner"
-      ]
-    },
-    {
-      "id": "daily-2026-10-30-3",
-      "name": "Baseline Drive Finishes",
-      "category": "FN",
+      "id": "daily-2026-10-31-2",
+      "name": "Hop-In Mid-Range",
+      "category": "SH",
       "seconds": 240,
       "equipment": "1 ball, 1 hoop",
-      "summary": "Attack the baseline and finish with the right hand on the right side.",
+      "summary": "Hop into your shot off one dribble so your feet land ready every time.",
       "steps": [
-        "Start on the right wing with the ball.",
-        "Jab, then take one hard dribble to the baseline.",
-        "Two dribbles max to the rim. Finish with your right hand.",
-        "Next rep, finish on the far side of the rim as a reverse.",
-        "Switch to the left wing after 2 minutes and use your left hand."
+        "Start at the top of the key, a step past the three-point line.",
+        "Take one hard dribble toward the elbow.",
+        "Pick up the ball and hop, landing on both feet at the same time.",
+        "Rise straight up and shoot. Hold your follow-through.",
+        "Go right elbow, left elbow, then both short corners. Make 5 at each spot."
       ],
       "cues": [
-        "Hug the baseline",
-        "Rim side hand",
+        "Two feet land",
+        "Shoulders square",
+        "Hold the finish"
+      ]
+    },
+    {
+      "id": "daily-2026-10-31-3",
+      "name": "Long Gather Finishes",
+      "category": "FN",
+      "seconds": 180,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Use a long last step to get around a defender and finish soft off the glass.",
+      "steps": [
+        "Start at the wing, just inside the three-point line.",
+        "Drive hard toward the block with your outside hand.",
+        "Gather and take a long last step past an imaginary defender.",
+        "Finish high off the glass with the hand farthest from the defender.",
+        "Do 5 makes each side, then switch to finishing on the other side of the rim."
+      ],
+      "cues": [
+        "Long last step",
+        "Protect the ball",
         "Soft off glass"
       ]
     },
     {
-      "id": "daily-2026-10-30-4",
-      "name": "Half-Court Attack Intervals",
+      "id": "daily-2026-10-31-4",
+      "name": "Slide-Sprint Combo Circuit",
       "category": "CN",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Sprint the ball to the rim and finish while your legs are tired.",
+      "equipment": "1 ball, 2 cones, 1 hoop",
+      "summary": "Defend, sprint and score while you are tired, just like late in a game.",
       "steps": [
-        "Start at half court with the ball.",
-        "Speed dribble to the rim and finish with a layup.",
-        "Grab the ball and backpedal to half court.",
-        "Repeat for 30 seconds, then rest 30 seconds.",
-        "Do 4 rounds. Alternate finishing hands each rep."
+        "Set one cone on each block. Put the ball at half court.",
+        "Defensive slide from cone to cone and back, twice.",
+        "Sprint to half court and pick up the ball.",
+        "Speed dribble back and finish with a layup.",
+        "Rest 15 seconds, then go again. Keep going until time is up."
       ],
       "cues": [
-        "Push the pace",
-        "Finish strong",
-        "Breathe on rest"
+        "Stay low",
+        "Sprint through",
+        "Finish strong"
       ]
     }
   ]
