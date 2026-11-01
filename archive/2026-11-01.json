@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-01",
+  "name": "Change of Pace Attack",
+  "summary": "Use speed changes off the dribble to beat your defender to the rim and to your jumper, then hold that pace while tired.",
+  "drills": [
+    {
+      "id": "daily-2026-11-01-1",
+      "name": "Stop-Start Dribbling",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Learn to go from full speed to a dead stop and back without losing the ball.",
+      "steps": [
+        "Dribble from the baseline toward half court at 50% speed.",
+        "Every 3-4 dribbles, stop hard on two feet with the ball still alive.",
+        "Hold the stop for one dribble with your eyes up.",
+        "Push out again at full speed with a long first step.",
+        "Go down and back with your right hand, then your left."
+      ],
+      "cues": [
+        "Stop on balance",
+        "Eyes up",
+        "Burst out"
+      ]
+    },
+    {
+      "id": "daily-2026-11-01-2",
+      "name": "Slow-Fast Layups",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 cone",
+      "summary": "Lull the defender with a slow dribble, then explode past them to the rim.",
+      "steps": [
+        "Set a cone at the top of the key.",
+        "Walk the ball to the cone with a slow, high dribble.",
+        "At the cone, drop your hips and explode toward the rim.",
+        "Finish with the outside hand off the glass.",
+        "Alternate sides each rep: right side right hand, left side left hand."
+      ],
+      "cues": [
+        "Slow to fast",
+        "Get low, go",
+        "Soft off glass"
+      ]
+    },
+    {
+      "id": "daily-2026-11-01-3",
+      "name": "Shot Fake One-Dribble Jumper",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Sell the shot, take one hard dribble and rise into a balanced jumper.",
+      "steps": [
+        "Start on the wing in triple threat, about 15 feet out.",
+        "Give a quick shot fake with the ball at your forehead.",
+        "Take one hard dribble to the side.",
+        "Plant both feet, square up and shoot.",
+        "Make 4 going right, then 4 going left, then switch wings."
+      ],
+      "cues": [
+        "Sell the shot",
+        "One hard dribble",
+        "Square and rise"
+      ]
+    },
+    {
+      "id": "daily-2026-11-01-4",
+      "name": "Speed Change Intervals",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Hold your handle and your pace changes while your legs get tired.",
+      "steps": [
+        "Start on the baseline with the ball.",
+        "Dribble to the free-throw line at 50%, then sprint to half court.",
+        "Jog the dribble to the far free-throw line, then sprint to the far baseline.",
+        "Walk 10 seconds to recover, then come back the same way.",
+        "Keep going until the timer ends. Switch hands every trip."
+      ],
+      "cues": [
+        "Make the change",
+        "Ball stays tight",
+        "Finish the sprint"
+      ]
+    }
+  ]
+}
