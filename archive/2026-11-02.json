@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-02",
+  "name": "Creating Space to Score",
+  "summary": "Back out of pressure with your handle, relocate for open shots, finish with the inside hand, and push through a tired-legs dribble finisher.",
+  "drills": [
+    {
+      "id": "daily-2026-11-02-1",
+      "name": "Retreat Dribble Resets",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball, 2 cones",
+      "summary": "Back away from pressure, keep the ball safe, then attack again.",
+      "steps": [
+        "Set two cones 3 big steps apart.",
+        "Attack the far cone with 3 hard dribbles.",
+        "At the cone, take 2 quick retreat dribbles back. Stay low and keep your chest to the cone.",
+        "Reset with a crossover and attack again.",
+        "Go 90 seconds with your right hand, then 90 seconds with your left."
+      ],
+      "cues": [
+        "Chest stays forward",
+        "Ball on hip",
+        "Eyes up"
+      ]
+    },
+    {
+      "id": "daily-2026-11-02-2",
+      "name": "Relocate & Rise",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Pass it off, move to an open spot, and be ready to shoot on the catch.",
+      "steps": [
+        "Start on the wing with the ball.",
+        "Spin the ball out to yourself toward the corner, or toss it off the backboard.",
+        "Slide 2-3 steps to a new spot, either the corner or the slot.",
+        "Catch with your feet already set and shoot.",
+        "Rebound, go back to the wing, and switch which way you relocate each rep."
+      ],
+      "cues": [
+        "Hands ready early",
+        "Feet set first",
+        "Hold the finish"
+      ]
+    },
+    {
+      "id": "daily-2026-11-02-3",
+      "name": "Inside-Hand Finishes",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, 1 cone",
+      "summary": "Finish with the hand closer to the middle so you can score around a defender.",
+      "steps": [
+        "Put a cone at the block as a shot blocker.",
+        "Drive from the wing toward the cone.",
+        "Take your last step past the cone and finish with your inside hand, off the glass.",
+        "Do 2 minutes from the right side, then 2 minutes from the left.",
+        "Count your makes and try to beat it next time."
+      ],
+      "cues": [
+        "Body shields ball",
+        "High off glass",
+        "Soft touch"
+      ]
+    },
+    {
+      "id": "daily-2026-11-02-4",
+      "name": "Four-Corner Dribble Sprints",
+      "category": "CN",
+      "seconds": 180,
+      "equipment": "1 ball, 4 cones",
+      "summary": "Sprint-dribble a box and change hands at every corner while your legs burn.",
+      "steps": [
+        "Set 4 cones in a square, about 8 big steps per side.",
+        "Speed dribble to the first cone with your right hand.",
+        "Crossover at the cone and sprint to the next one with your left.",
+        "Keep going around the box for 40 seconds, then rest 20 seconds.",
+        "Do 3 rounds. Switch directions each round."
+      ],
+      "cues": [
+        "Push it ahead",
+        "Low at corners",
+        "Finish strong"
+      ]
+    }
+  ]
+}
