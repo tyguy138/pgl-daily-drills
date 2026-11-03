@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-03",
+  "name": "Attack Moves & Recovery",
+  "summary": "Warm up the hands, score off a rip-through and a crossover drive, then finish with defensive recovery runs.",
+  "drills": [
+    {
+      "id": "daily-2026-11-03-1",
+      "name": "Wrap-Around Warm-Up",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Wake up your hands with wraps, then move into low, quick dribbles.",
+      "steps": [
+        "Wrap the ball around your waist 10 times each way.",
+        "Wrap it around each knee 10 times each way.",
+        "Do figure wraps around both legs for 30 seconds.",
+        "Finish with 30 seconds of hard dribbles at knee height in each hand."
+      ],
+      "cues": [
+        "Fingertips only",
+        "Stay low",
+        "Eyes up"
+      ]
+    },
+    {
+      "id": "daily-2026-11-03-2",
+      "name": "Wing Rip-Through Jumpers",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Catch on the wing, rip the ball through low, take one hard dribble and rise.",
+      "steps": [
+        "Spin the ball out to yourself on the right wing and catch on two feet.",
+        "Rip the ball low and across your knees to the other hip.",
+        "Take one hard dribble toward the elbow and pull up.",
+        "Do 5 reps, then switch to the left wing.",
+        "Keep switching wings until time is up."
+      ],
+      "cues": [
+        "Rip it low",
+        "One hard dribble",
+        "Square and rise"
+      ]
+    },
+    {
+      "id": "daily-2026-11-03-3",
+      "name": "Crossover Lane Finishes",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, 1 cone",
+      "summary": "Cross over at the cone, attack the lane, and finish on the far side of the rim.",
+      "steps": [
+        "Put a cone at the top of the key.",
+        "Dribble at the cone and cross over hard right before it.",
+        "Attack the lane with a long first step.",
+        "Finish with the outside hand on the far side of the rim.",
+        "Alternate crossover directions every rep."
+      ],
+      "cues": [
+        "Cross it low",
+        "Long first step",
+        "Outside hand finish"
+      ]
+    },
+    {
+      "id": "daily-2026-11-03-4",
+      "name": "Drop-Step Recovery Runs",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "No equipment",
+      "summary": "Defend in stance, open your hips when you get beat, and sprint to recover.",
+      "steps": [
+        "Start in stance at the baseline.",
+        "Slide 3 steps, then drop-step like you got beat.",
+        "Turn and sprint to the free throw line extended.",
+        "Get back in stance and slide 3 more steps.",
+        "Jog back to the baseline and go again."
+      ],
+      "cues": [
+        "Open the hips",
+        "Run to recover",
+        "Stance right away"
+      ]
+    }
+  ]
+}
