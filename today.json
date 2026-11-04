@@ -1,85 +1,86 @@
 {
-  "date": "2026-11-03",
-  "name": "Attack Moves & Recovery",
-  "summary": "Warm up the hands, score off a rip-through and a crossover drive, then finish with defensive recovery runs.",
+  "date": "2026-11-04",
+  "name": "Closeout Reads & Finishing",
+  "summary": "Warm up your handle and mid-range touch, then read a live closeout and finish hard at the rim on tired legs.",
   "drills": [
     {
-      "id": "daily-2026-11-03-1",
-      "name": "Wrap-Around Warm-Up",
+      "id": "daily-2026-11-04-1",
+      "name": "Behind-the-Back Stride Dribbles",
       "category": "BH",
+      "seconds": 150,
+      "equipment": "1 ball",
+      "summary": "Walk the length of the court with a behind-the-back dribble on every step.",
+      "steps": [
+        "Start on the baseline in a low walk.",
+        "Dribble behind your back each time your front foot lands.",
+        "Keep the ball tight to your hip and your eyes on the far rim.",
+        "Walk down, then jog back with the same dribble.",
+        "Speed up a little each trip."
+      ],
+      "cues": [
+        "Eyes up",
+        "Ball on hip",
+        "Low walk"
+      ]
+    },
+    {
+      "id": "daily-2026-11-04-2",
+      "name": "Short Corner Jumpers",
+      "category": "SH",
       "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Wake up your hands with wraps, then move into low, quick dribbles.",
+      "summary": "Build mid-range touch from the short corners on both sides of the rim.",
       "steps": [
-        "Wrap the ball around your waist 10 times each way.",
-        "Wrap it around each knee 10 times each way.",
-        "Do figure wraps around both legs for 30 seconds.",
-        "Finish with 30 seconds of hard dribbles at knee height in each hand."
+        "Start in the short corner, about 10 feet from the rim, on the right side.",
+        "Square your feet to the rim and shoot. Use the glass only if it's a clean bank angle.",
+        "Rebound your shot and get back to the spot.",
+        "Make 5, then switch to the left short corner.",
+        "Keep switching sides until time runs out."
       ],
       "cues": [
-        "Fingertips only",
-        "Stay low",
-        "Eyes up"
+        "Square up",
+        "Hold the follow-through",
+        "Same shot"
       ]
     },
     {
-      "id": "daily-2026-11-03-2",
-      "name": "Wing Rip-Through Jumpers",
-      "category": "SH",
+      "id": "daily-2026-11-04-3",
+      "name": "Attack the Closeout",
+      "category": "IQ",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Catch on the wing, rip the ball through low, take one hard dribble and rise.",
+      "equipment": "1 ball, partner",
+      "summary": "Read how your partner closes out and make the right play in one second.",
       "steps": [
-        "Spin the ball out to yourself on the right wing and catch on two feet.",
-        "Rip the ball low and across your knees to the other hip.",
-        "Take one hard dribble toward the elbow and pull up.",
-        "Do 5 reps, then switch to the left wing.",
-        "Keep switching wings until time is up."
+        "Stand on the wing. Your partner starts under the rim with the ball.",
+        "Partner passes to you and closes out three ways: short, high hands, or flying at you.",
+        "Short closeout: shoot it. High hands: rip and drive. Flying at you: shot fake, one dribble, pull up.",
+        "Make your decision on the catch. No holding the ball.",
+        "Do 6 reps, then switch roles. Repeat from the other wing."
       ],
       "cues": [
-        "Rip it low",
-        "One hard dribble",
-        "Square and rise"
+        "Read the feet",
+        "Decide on catch",
+        "No holding"
       ]
     },
     {
-      "id": "daily-2026-11-03-3",
-      "name": "Crossover Lane Finishes",
+      "id": "daily-2026-11-04-4",
+      "name": "Sideline Sprint Finishes",
       "category": "FN",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop, 1 cone",
-      "summary": "Cross over at the cone, attack the lane, and finish on the far side of the rim.",
+      "equipment": "1 ball",
+      "summary": "Attack the rim from the sideline at full speed, finish, and sprint back to do it again.",
       "steps": [
-        "Put a cone at the top of the key.",
-        "Dribble at the cone and cross over hard right before it.",
-        "Attack the lane with a long first step.",
-        "Finish with the outside hand on the far side of the rim.",
-        "Alternate crossover directions every rep."
+        "Start on the right sideline at the free-throw line extended.",
+        "Speed dribble to the rim and finish with your right hand.",
+        "Grab the ball and sprint dribble back to touch the sideline.",
+        "Go again from the left sideline and finish with your left hand.",
+        "Keep alternating sides until time runs out. Count your makes."
       ],
       "cues": [
-        "Cross it low",
-        "Long first step",
-        "Outside hand finish"
-      ]
-    },
-    {
-      "id": "daily-2026-11-03-4",
-      "name": "Drop-Step Recovery Runs",
-      "category": "DF",
-      "seconds": 180,
-      "equipment": "No equipment",
-      "summary": "Defend in stance, open your hips when you get beat, and sprint to recover.",
-      "steps": [
-        "Start in stance at the baseline.",
-        "Slide 3 steps, then drop-step like you got beat.",
-        "Turn and sprint to the free throw line extended.",
-        "Get back in stance and slide 3 more steps.",
-        "Jog back to the baseline and go again."
-      ],
-      "cues": [
-        "Open the hips",
-        "Run to recover",
-        "Stance right away"
+        "Full speed",
+        "Finish high",
+        "Sprint back"
       ]
     }
   ]
