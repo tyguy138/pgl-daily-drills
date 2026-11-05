@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-05",
+  "name": "Reads & Spot-Up Shooting",
+  "summary": "Warm up your handle with your eyes up, shoot off self-pass catches, read a partner's closeout, then finish with tough dribble shuttles.",
+  "drills": [
+    {
+      "id": "daily-2026-11-05-1",
+      "name": "Eyes-Up Wall Spots",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball, a wall or garage door",
+      "summary": "Control the ball low and fast while your eyes stay locked on a target.",
+      "steps": [
+        "Pick a spot on a wall about head height, 10 feet away.",
+        "Dribble hard at your knee with your right hand for 30 seconds. Eyes stay on the spot.",
+        "Switch to your left hand for 30 seconds.",
+        "Do crossovers, then between-the-legs, 30 seconds each.",
+        "Finish with 30 seconds of any combo you want. Never look down."
+      ],
+      "cues": [
+        "Eyes on spot",
+        "Pound it low",
+        "Soft fingertips"
+      ]
+    },
+    {
+      "id": "daily-2026-11-05-2",
+      "name": "Self-Toss Spin Catches",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Spin the ball out to yourself and catch it ready to shoot, like a real kick-out pass.",
+      "steps": [
+        "Start in the paint facing a spot about 15 feet out.",
+        "Spin the ball out so it bounces once at your spot.",
+        "Run to it and catch on a hop with your feet set and knees bent.",
+        "Shoot right away. Rebound and go to the next spot.",
+        "Work five spots around the arc: corner, wing, top, wing, corner. Repeat."
+      ],
+      "cues": [
+        "Hands ready early",
+        "Hop and hold",
+        "Up and in"
+      ]
+    },
+    {
+      "id": "daily-2026-11-05-3",
+      "name": "Closeout Read & Go",
+      "category": "IQ",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, partner",
+      "summary": "Read how your partner closes out and make the right play fast.",
+      "steps": [
+        "Stand on the wing with the ball. Partner starts under the rim.",
+        "Partner runs at you and shows one look: hand high, short closeout, or flying at you.",
+        "Hand high or flying at you: shot fake and drive to the rim.",
+        "Short closeout with space: shoot it.",
+        "Decide in one second. Switch roles halfway through."
+      ],
+      "cues": [
+        "Read the feet",
+        "One-second decision",
+        "Make them pay"
+      ]
+    },
+    {
+      "id": "daily-2026-11-05-4",
+      "name": "Arc Spoke Shuttles",
+      "category": "CN",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Dribble hard from the rim to five arc spots and back to build legs and handle under fatigue.",
+      "steps": [
+        "Start under the rim with the ball.",
+        "Speed dribble to the right corner arc, touch the line, dribble back to the rim.",
+        "Repeat to the right wing, top, left wing and left corner.",
+        "Rest 20 seconds after each full round of five spots.",
+        "Go again until time runs out. Use your outside hand going out."
+      ],
+      "cues": [
+        "Low and fast",
+        "Touch the line",
+        "Push through tired"
+      ]
+    }
+  ]
+}
