@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-06",
+  "name": "Downhill Attack & Contain",
+  "summary": "Loosen up your handle, finish away from shot blockers, cut off drives with your feet, then push through tired-leg layups.",
+  "drills": [
+    {
+      "id": "daily-2026-11-06-1",
+      "name": "Push-Pull Dribbles",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Push the ball out in front, pull it back, and stay in control.",
+      "steps": [
+        "Get in a low stance with the ball in your right hand.",
+        "Push the dribble forward one step, then pull it back to your hip.",
+        "Keep the ball moving for 30 seconds, then switch hands.",
+        "Add a crossover after every pull-back.",
+        "Finish with 30 seconds of push-pull while walking forward."
+      ],
+      "cues": [
+        "Eyes up",
+        "Soft fingertips",
+        "Stay low"
+      ]
+    },
+    {
+      "id": "daily-2026-11-06-2",
+      "name": "Glass-Side Extension Finishes",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Finish with the hand away from the shot blocker and use the glass.",
+      "steps": [
+        "Start at the right wing with the ball.",
+        "Drive to the rim and pick up the ball off one dribble.",
+        "Reach out wide with your right hand and kiss it high off the glass.",
+        "Do 5 makes, then switch to the left side and left hand.",
+        "Keep switching sides until time is up."
+      ],
+      "cues": [
+        "Reach away",
+        "High off glass",
+        "Protect the ball"
+      ]
+    },
+    {
+      "id": "daily-2026-11-06-3",
+      "name": "Cone Cut-Off Slides",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "2 cones",
+      "summary": "Beat the driver to the spot by sliding hard to a cone.",
+      "steps": [
+        "Set two cones about 4 big steps apart.",
+        "Start in stance halfway between them.",
+        "Pick a cone and slide hard to it, chest square, without crossing your feet.",
+        "Plant your outside foot past the cone and stop in balance.",
+        "Slide back to the middle and go the other way. Rest 15 seconds every 45 seconds."
+      ],
+      "cues": [
+        "Beat the spot",
+        "Don't cross",
+        "Chest square"
+      ]
+    },
+    {
+      "id": "daily-2026-11-06-4",
+      "name": "Ladder Layup Sprints",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Sprint to a line and back, then finish a layup while you're tired.",
+      "steps": [
+        "Start under the hoop with the ball.",
+        "Speed dribble to the free throw line and back, then make a layup.",
+        "Speed dribble to half court and back, then make a layup.",
+        "Speed dribble to the far free throw line and back, then make a layup.",
+        "Rest 30 seconds, then start the ladder again until time is up."
+      ],
+      "cues": [
+        "Push the pace",
+        "Finish strong",
+        "Same form tired"
+      ]
+    }
+  ]
+}
