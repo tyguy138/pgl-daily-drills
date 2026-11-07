@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-06",
-  "name": "Downhill Attack & Contain",
-  "summary": "Loosen up your handle, finish away from shot blockers, cut off drives with your feet, then push through tired-leg layups.",
+  "date": "2026-11-07",
+  "name": "Handles, Jumpers & Defense",
+  "summary": "Wake up your handle, hit mid-range jumpers off a hard stop, slide and run on defense, then finish with dribble sprints.",
   "drills": [
     {
-      "id": "daily-2026-11-06-1",
-      "name": "Push-Pull Dribbles",
+      "id": "daily-2026-11-07-1",
+      "name": "Hockey Pull Dribbles",
       "category": "BH",
-      "seconds": 180,
+      "seconds": 150,
       "equipment": "1 ball",
-      "summary": "Push the ball out in front, pull it back, and stay in control.",
+      "summary": "Push the ball out and pull it back low, like a hockey stick.",
       "steps": [
         "Get in a low stance with the ball in your right hand.",
-        "Push the dribble forward one step, then pull it back to your hip.",
-        "Keep the ball moving for 30 seconds, then switch hands.",
-        "Add a crossover after every pull-back.",
-        "Finish with 30 seconds of push-pull while walking forward."
+        "Push the ball out in front, then pull it back to your hip with one hand.",
+        "Keep it below your knee the whole time.",
+        "Switch to your left hand after 30 seconds.",
+        "Finish by pulling it back and crossing it to the other hand."
       ],
       "cues": [
+        "Stay low",
         "Eyes up",
-        "Soft fingertips",
-        "Stay low"
+        "Soft hands"
       ]
     },
     {
-      "id": "daily-2026-11-06-2",
-      "name": "Glass-Side Extension Finishes",
-      "category": "FN",
+      "id": "daily-2026-11-07-2",
+      "name": "Elbow Stride-Stop Jumpers",
+      "category": "SH",
       "seconds": 240,
       "equipment": "1 ball, 1 hoop",
-      "summary": "Finish with the hand away from the shot blocker and use the glass.",
+      "summary": "Attack from the wing and stop on balance for an elbow jumper.",
       "steps": [
-        "Start at the right wing with the ball.",
-        "Drive to the rim and pick up the ball off one dribble.",
-        "Reach out wide with your right hand and kiss it high off the glass.",
-        "Do 5 makes, then switch to the left side and left hand.",
-        "Keep switching sides until time is up."
+        "Start on the right wing past the three-point line.",
+        "Take two hard dribbles to the elbow.",
+        "Stop with a quick 1-2 step, inside foot first.",
+        "Rise and shoot straight up and land in the same spot.",
+        "Rebound, go to the left wing and repeat. Alternate sides."
       ],
       "cues": [
-        "Reach away",
-        "High off glass",
-        "Protect the ball"
+        "Hard stop",
+        "Square up",
+        "Land balanced"
       ]
     },
     {
-      "id": "daily-2026-11-06-3",
-      "name": "Cone Cut-Off Slides",
+      "id": "daily-2026-11-07-3",
+      "name": "Slide-Run-Slide",
       "category": "DF",
       "seconds": 180,
-      "equipment": "2 cones",
-      "summary": "Beat the driver to the spot by sliding hard to a cone.",
+      "equipment": "Nothing, or 4 cones",
+      "summary": "Slide, turn and run when you get beat, then sit back in your stance.",
       "steps": [
-        "Set two cones about 4 big steps apart.",
-        "Start in stance halfway between them.",
-        "Pick a cone and slide hard to it, chest square, without crossing your feet.",
-        "Plant your outside foot past the cone and stop in balance.",
-        "Slide back to the middle and go the other way. Rest 15 seconds every 45 seconds."
+        "Start at the baseline in a low defensive stance.",
+        "Slide three steps to your right.",
+        "Open your hips and sprint five steps on an angle.",
+        "Stop, sit back in your stance and slide three steps the other way.",
+        "Zig-zag to half court, jog back and repeat."
       ],
       "cues": [
-        "Beat the spot",
-        "Don't cross",
-        "Chest square"
+        "Open the hips",
+        "Sit back down",
+        "Hands active"
       ]
     },
     {
-      "id": "daily-2026-11-06-4",
-      "name": "Ladder Layup Sprints",
+      "id": "daily-2026-11-07-4",
+      "name": "Dribble Sprint Pyramid",
       "category": "CN",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Sprint to a line and back, then finish a layup while you're tired.",
+      "equipment": "1 ball, full court or long driveway",
+      "summary": "Build up and back down with full-speed dribble sprints.",
       "steps": [
-        "Start under the hoop with the ball.",
-        "Speed dribble to the free throw line and back, then make a layup.",
-        "Speed dribble to half court and back, then make a layup.",
-        "Speed dribble to the far free throw line and back, then make a layup.",
-        "Rest 30 seconds, then start the ladder again until time is up."
+        "Speed dribble one length of the court, then rest 15 seconds.",
+        "Go two lengths, then rest 15 seconds.",
+        "Go three lengths, then rest 20 seconds.",
+        "Come back down: two lengths, then one.",
+        "Use your right hand going down and your left hand coming back."
       ],
       "cues": [
-        "Push the pace",
-        "Finish strong",
-        "Same form tired"
+        "Push it ahead",
+        "Eyes up",
+        "Finish strong"
       ]
     }
   ]

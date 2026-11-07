@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-07",
+  "name": "Handles, Jumpers & Defense",
+  "summary": "Wake up your handle, hit mid-range jumpers off a hard stop, slide and run on defense, then finish with dribble sprints.",
+  "drills": [
+    {
+      "id": "daily-2026-11-07-1",
+      "name": "Hockey Pull Dribbles",
+      "category": "BH",
+      "seconds": 150,
+      "equipment": "1 ball",
+      "summary": "Push the ball out and pull it back low, like a hockey stick.",
+      "steps": [
+        "Get in a low stance with the ball in your right hand.",
+        "Push the ball out in front, then pull it back to your hip with one hand.",
+        "Keep it below your knee the whole time.",
+        "Switch to your left hand after 30 seconds.",
+        "Finish by pulling it back and crossing it to the other hand."
+      ],
+      "cues": [
+        "Stay low",
+        "Eyes up",
+        "Soft hands"
+      ]
+    },
+    {
+      "id": "daily-2026-11-07-2",
+      "name": "Elbow Stride-Stop Jumpers",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Attack from the wing and stop on balance for an elbow jumper.",
+      "steps": [
+        "Start on the right wing past the three-point line.",
+        "Take two hard dribbles to the elbow.",
+        "Stop with a quick 1-2 step, inside foot first.",
+        "Rise and shoot straight up and land in the same spot.",
+        "Rebound, go to the left wing and repeat. Alternate sides."
+      ],
+      "cues": [
+        "Hard stop",
+        "Square up",
+        "Land balanced"
+      ]
+    },
+    {
+      "id": "daily-2026-11-07-3",
+      "name": "Slide-Run-Slide",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "Nothing, or 4 cones",
+      "summary": "Slide, turn and run when you get beat, then sit back in your stance.",
+      "steps": [
+        "Start at the baseline in a low defensive stance.",
+        "Slide three steps to your right.",
+        "Open your hips and sprint five steps on an angle.",
+        "Stop, sit back in your stance and slide three steps the other way.",
+        "Zig-zag to half court, jog back and repeat."
+      ],
+      "cues": [
+        "Open the hips",
+        "Sit back down",
+        "Hands active"
+      ]
+    },
+    {
+      "id": "daily-2026-11-07-4",
+      "name": "Dribble Sprint Pyramid",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball, full court or long driveway",
+      "summary": "Build up and back down with full-speed dribble sprints.",
+      "steps": [
+        "Speed dribble one length of the court, then rest 15 seconds.",
+        "Go two lengths, then rest 15 seconds.",
+        "Go three lengths, then rest 20 seconds.",
+        "Come back down: two lengths, then one.",
+        "Use your right hand going down and your left hand coming back."
+      ],
+      "cues": [
+        "Push it ahead",
+        "Eyes up",
+        "Finish strong"
+      ]
+    }
+  ]
+}
