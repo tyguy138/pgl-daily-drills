@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-08",
+  "name": "Attacking the Middle",
+  "summary": "Sharpen your crossover, score off the snake dribble and finish middle drives, then finish with a conditioning test.",
+  "drills": [
+    {
+      "id": "daily-2026-11-08-1",
+      "name": "Wide-to-Tight Crossovers",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Warm up your hands by working the crossover from wide to quick and tight.",
+      "steps": [
+        "Get in a low stance with feet wider than your shoulders.",
+        "Cross the ball wide, from outside your left foot to outside your right foot, for 30 seconds.",
+        "Bring it in to a tight crossover between your knees, as fast as you can, for 30 seconds.",
+        "Switch every 30 seconds between wide and tight.",
+        "Finish the last minute walking forward, using wide and tight crossovers."
+      ],
+      "cues": [
+        "Stay low",
+        "Eyes up",
+        "Snap it across"
+      ]
+    },
+    {
+      "id": "daily-2026-11-08-2",
+      "name": "Snake Dribble Pull-Ups",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 cone",
+      "summary": "Come off an imaginary ball screen, snake back to the middle and rise up.",
+      "steps": [
+        "Put a cone at the top of the key as the screener.",
+        "Start on the wing and dribble tight off the cone with your right hand.",
+        "Cross back left in front of the cone to snake into the lane.",
+        "Pick it up on two feet at the elbow and shoot.",
+        "Get your own rebound and go again from the other wing.",
+        "Take 5 shots each side, then repeat."
+      ],
+      "cues": [
+        "Shave the cone",
+        "Snake it back",
+        "Balanced rise"
+      ]
+    },
+    {
+      "id": "daily-2026-11-08-3",
+      "name": "Middle Drive Counter Finishes",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Drive middle, read the help and counter with a pivot finish.",
+      "steps": [
+        "Start on the right wing in triple threat.",
+        "Drive middle with your left hand and jump stop just inside the lane line.",
+        "Show the ball up like you're shooting the short jumper.",
+        "Reverse pivot toward the baseline and finish with your right hand off the glass.",
+        "Do 6 reps, then switch to the left wing and finish with your left hand."
+      ],
+      "cues": [
+        "Jump stop strong",
+        "Sell the shot",
+        "Chin the ball"
+      ]
+    },
+    {
+      "id": "daily-2026-11-08-4",
+      "name": "Sprint-Back Box-Outs",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Sprint back on defense, box out and chase the rebound when your legs are tired.",
+      "steps": [
+        "Start on the baseline holding the ball.",
+        "Sprint to half court and touch the line.",
+        "Backpedal to the free throw line and get into stance.",
+        "Toss the ball off the backboard, turn and hold a box-out for one second.",
+        "Go get the ball at its highest point and land on two feet.",
+        "Rest 15 seconds, then repeat until time is up."
+      ],
+      "cues": [
+        "Sprint, don't jog",
+        "Hit and hold",
+        "Two hands, chin it"
+      ]
+    }
+  ]
+}

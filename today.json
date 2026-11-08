@@ -1,86 +1,88 @@
 {
-  "date": "2026-11-07",
-  "name": "Handles, Jumpers & Defense",
-  "summary": "Wake up your handle, hit mid-range jumpers off a hard stop, slide and run on defense, then finish with dribble sprints.",
+  "date": "2026-11-08",
+  "name": "Attacking the Middle",
+  "summary": "Sharpen your crossover, score off the snake dribble and finish middle drives, then finish with a conditioning test.",
   "drills": [
     {
-      "id": "daily-2026-11-07-1",
-      "name": "Hockey Pull Dribbles",
+      "id": "daily-2026-11-08-1",
+      "name": "Wide-to-Tight Crossovers",
       "category": "BH",
-      "seconds": 150,
+      "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Push the ball out and pull it back low, like a hockey stick.",
+      "summary": "Warm up your hands by working the crossover from wide to quick and tight.",
       "steps": [
-        "Get in a low stance with the ball in your right hand.",
-        "Push the ball out in front, then pull it back to your hip with one hand.",
-        "Keep it below your knee the whole time.",
-        "Switch to your left hand after 30 seconds.",
-        "Finish by pulling it back and crossing it to the other hand."
+        "Get in a low stance with feet wider than your shoulders.",
+        "Cross the ball wide, from outside your left foot to outside your right foot, for 30 seconds.",
+        "Bring it in to a tight crossover between your knees, as fast as you can, for 30 seconds.",
+        "Switch every 30 seconds between wide and tight.",
+        "Finish the last minute walking forward, using wide and tight crossovers."
       ],
       "cues": [
         "Stay low",
         "Eyes up",
-        "Soft hands"
+        "Snap it across"
       ]
     },
     {
-      "id": "daily-2026-11-07-2",
-      "name": "Elbow Stride-Stop Jumpers",
+      "id": "daily-2026-11-08-2",
+      "name": "Snake Dribble Pull-Ups",
       "category": "SH",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Attack from the wing and stop on balance for an elbow jumper.",
+      "equipment": "1 ball, 1 cone",
+      "summary": "Come off an imaginary ball screen, snake back to the middle and rise up.",
       "steps": [
-        "Start on the right wing past the three-point line.",
-        "Take two hard dribbles to the elbow.",
-        "Stop with a quick 1-2 step, inside foot first.",
-        "Rise and shoot straight up and land in the same spot.",
-        "Rebound, go to the left wing and repeat. Alternate sides."
+        "Put a cone at the top of the key as the screener.",
+        "Start on the wing and dribble tight off the cone with your right hand.",
+        "Cross back left in front of the cone to snake into the lane.",
+        "Pick it up on two feet at the elbow and shoot.",
+        "Get your own rebound and go again from the other wing.",
+        "Take 5 shots each side, then repeat."
       ],
       "cues": [
-        "Hard stop",
-        "Square up",
-        "Land balanced"
+        "Shave the cone",
+        "Snake it back",
+        "Balanced rise"
       ]
     },
     {
-      "id": "daily-2026-11-07-3",
-      "name": "Slide-Run-Slide",
-      "category": "DF",
-      "seconds": 180,
-      "equipment": "Nothing, or 4 cones",
-      "summary": "Slide, turn and run when you get beat, then sit back in your stance.",
+      "id": "daily-2026-11-08-3",
+      "name": "Middle Drive Counter Finishes",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Drive middle, read the help and counter with a pivot finish.",
       "steps": [
-        "Start at the baseline in a low defensive stance.",
-        "Slide three steps to your right.",
-        "Open your hips and sprint five steps on an angle.",
-        "Stop, sit back in your stance and slide three steps the other way.",
-        "Zig-zag to half court, jog back and repeat."
+        "Start on the right wing in triple threat.",
+        "Drive middle with your left hand and jump stop just inside the lane line.",
+        "Show the ball up like you're shooting the short jumper.",
+        "Reverse pivot toward the baseline and finish with your right hand off the glass.",
+        "Do 6 reps, then switch to the left wing and finish with your left hand."
       ],
       "cues": [
-        "Open the hips",
-        "Sit back down",
-        "Hands active"
+        "Jump stop strong",
+        "Sell the shot",
+        "Chin the ball"
       ]
     },
     {
-      "id": "daily-2026-11-07-4",
-      "name": "Dribble Sprint Pyramid",
+      "id": "daily-2026-11-08-4",
+      "name": "Sprint-Back Box-Outs",
       "category": "CN",
       "seconds": 240,
-      "equipment": "1 ball, full court or long driveway",
-      "summary": "Build up and back down with full-speed dribble sprints.",
+      "equipment": "1 ball",
+      "summary": "Sprint back on defense, box out and chase the rebound when your legs are tired.",
       "steps": [
-        "Speed dribble one length of the court, then rest 15 seconds.",
-        "Go two lengths, then rest 15 seconds.",
-        "Go three lengths, then rest 20 seconds.",
-        "Come back down: two lengths, then one.",
-        "Use your right hand going down and your left hand coming back."
+        "Start on the baseline holding the ball.",
+        "Sprint to half court and touch the line.",
+        "Backpedal to the free throw line and get into stance.",
+        "Toss the ball off the backboard, turn and hold a box-out for one second.",
+        "Go get the ball at its highest point and land on two feet.",
+        "Rest 15 seconds, then repeat until time is up."
       ],
       "cues": [
-        "Push it ahead",
-        "Eyes up",
-        "Finish strong"
+        "Sprint, don't jog",
+        "Hit and hold",
+        "Two hands, chin it"
       ]
     }
   ]
