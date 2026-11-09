@@ -1,88 +1,87 @@
 {
-  "date": "2026-11-08",
-  "name": "Attacking the Middle",
-  "summary": "Sharpen your crossover, score off the snake dribble and finish middle drives, then finish with a conditioning test.",
+  "date": "2026-11-09",
+  "name": "Handles, Finishing & Defense",
+  "summary": "Get low with the ball, finish with your off hand, push the ball to the sideline on defense, then finish tired with full-court layups.",
   "drills": [
     {
-      "id": "daily-2026-11-08-1",
-      "name": "Wide-to-Tight Crossovers",
+      "id": "daily-2026-11-09-1",
+      "name": "Kneeling Dribble Series",
       "category": "BH",
-      "seconds": 180,
+      "seconds": 150,
       "equipment": "1 ball",
-      "summary": "Warm up your hands by working the crossover from wide to quick and tight.",
+      "summary": "Dribble from one knee to stay low and build quick, strong hands.",
       "steps": [
-        "Get in a low stance with feet wider than your shoulders.",
-        "Cross the ball wide, from outside your left foot to outside your right foot, for 30 seconds.",
-        "Bring it in to a tight crossover between your knees, as fast as you can, for 30 seconds.",
-        "Switch every 30 seconds between wide and tight.",
-        "Finish the last minute walking forward, using wide and tight crossovers."
+        "Kneel on your left knee with the ball in your right hand.",
+        "Pound 20 hard dribbles at your side, then 20 front to back.",
+        "Cross the ball under your raised knee and back 10 times.",
+        "Switch knees and hands and repeat the series.",
+        "Finish with 20 fast crossovers in front of your body."
       ],
       "cues": [
-        "Stay low",
         "Eyes up",
-        "Snap it across"
+        "Pound it hard",
+        "Fingertips only"
       ]
     },
     {
-      "id": "daily-2026-11-08-2",
-      "name": "Snake Dribble Pull-Ups",
-      "category": "SH",
-      "seconds": 240,
-      "equipment": "1 ball, 1 cone",
-      "summary": "Come off an imaginary ball screen, snake back to the middle and rise up.",
-      "steps": [
-        "Put a cone at the top of the key as the screener.",
-        "Start on the wing and dribble tight off the cone with your right hand.",
-        "Cross back left in front of the cone to snake into the lane.",
-        "Pick it up on two feet at the elbow and shoot.",
-        "Get your own rebound and go again from the other wing.",
-        "Take 5 shots each side, then repeat."
-      ],
-      "cues": [
-        "Shave the cone",
-        "Snake it back",
-        "Balanced rise"
-      ]
-    },
-    {
-      "id": "daily-2026-11-08-3",
-      "name": "Middle Drive Counter Finishes",
+      "id": "daily-2026-11-09-2",
+      "name": "Off-Hand Wing Layups",
       "category": "FN",
-      "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Drive middle, read the help and counter with a pivot finish.",
+      "seconds": 180,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Attack from both wings and finish with your weaker hand every time.",
       "steps": [
-        "Start on the right wing in triple threat.",
-        "Drive middle with your left hand and jump stop just inside the lane line.",
-        "Show the ball up like you're shooting the short jumper.",
-        "Reverse pivot toward the baseline and finish with your right hand off the glass.",
-        "Do 6 reps, then switch to the left wing and finish with your left hand."
+        "Start on the right wing, one step outside the three-point line.",
+        "Drive with your off hand and finish with the same off hand.",
+        "Rebound, dribble out to the left wing and repeat.",
+        "Make 10 in a row before you switch to the reverse side of the rim.",
+        "Keep a count of your misses and beat it next time."
       ],
       "cues": [
-        "Jump stop strong",
-        "Sell the shot",
-        "Chin the ball"
+        "High off the glass",
+        "Knee up",
+        "Off hand only"
       ]
     },
     {
-      "id": "daily-2026-11-08-4",
-      "name": "Sprint-Back Box-Outs",
+      "id": "daily-2026-11-09-3",
+      "name": "Cone Funnel Slides",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "4 cones",
+      "summary": "Cut off the middle and push the ball toward the sideline.",
+      "steps": [
+        "Set two cones at the top of the key and two near the sideline at the baseline.",
+        "Start in stance at the top cone, nose on the inside shoulder of an imaginary ball handler.",
+        "Slide on a diagonal toward the sideline cone, staying between the ball and the middle.",
+        "At the cone, drop your outside foot and sit low like you just stopped the ball.",
+        "Jog back and repeat from the other top cone toward the other side."
+      ],
+      "cues": [
+        "Push it sideline",
+        "Stay low",
+        "No crossed feet"
+      ]
+    },
+    {
+      "id": "daily-2026-11-09-4",
+      "name": "Layup-to-Line Burnouts",
       "category": "CN",
       "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Sprint back on defense, box out and chase the rebound when your legs are tired.",
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Sprint to the rim, finish, and run back to the far line while tired.",
       "steps": [
-        "Start on the baseline holding the ball.",
-        "Sprint to half court and touch the line.",
-        "Backpedal to the free throw line and get into stance.",
-        "Toss the ball off the backboard, turn and hold a box-out for one second.",
-        "Go get the ball at its highest point and land on two feet.",
-        "Rest 15 seconds, then repeat until time is up."
+        "Start at half court with the ball.",
+        "Speed dribble in and make a right-hand layup.",
+        "Grab the rebound and sprint the ball back to half court.",
+        "Go again and make a left-hand layup.",
+        "Keep going for 40 seconds, then walk 20 seconds. Repeat 4 times.",
+        "Count your makes each round and try to match it."
       ],
       "cues": [
-        "Sprint, don't jog",
-        "Hit and hold",
-        "Two hands, chin it"
+        "Sprint to finish",
+        "Make it count",
+        "Breathe and go"
       ]
     }
   ]

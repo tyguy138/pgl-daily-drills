@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-09",
+  "name": "Handles, Finishing & Defense",
+  "summary": "Get low with the ball, finish with your off hand, push the ball to the sideline on defense, then finish tired with full-court layups.",
+  "drills": [
+    {
+      "id": "daily-2026-11-09-1",
+      "name": "Kneeling Dribble Series",
+      "category": "BH",
+      "seconds": 150,
+      "equipment": "1 ball",
+      "summary": "Dribble from one knee to stay low and build quick, strong hands.",
+      "steps": [
+        "Kneel on your left knee with the ball in your right hand.",
+        "Pound 20 hard dribbles at your side, then 20 front to back.",
+        "Cross the ball under your raised knee and back 10 times.",
+        "Switch knees and hands and repeat the series.",
+        "Finish with 20 fast crossovers in front of your body."
+      ],
+      "cues": [
+        "Eyes up",
+        "Pound it hard",
+        "Fingertips only"
+      ]
+    },
+    {
+      "id": "daily-2026-11-09-2",
+      "name": "Off-Hand Wing Layups",
+      "category": "FN",
+      "seconds": 180,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Attack from both wings and finish with your weaker hand every time.",
+      "steps": [
+        "Start on the right wing, one step outside the three-point line.",
+        "Drive with your off hand and finish with the same off hand.",
+        "Rebound, dribble out to the left wing and repeat.",
+        "Make 10 in a row before you switch to the reverse side of the rim.",
+        "Keep a count of your misses and beat it next time."
+      ],
+      "cues": [
+        "High off the glass",
+        "Knee up",
+        "Off hand only"
+      ]
+    },
+    {
+      "id": "daily-2026-11-09-3",
+      "name": "Cone Funnel Slides",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "4 cones",
+      "summary": "Cut off the middle and push the ball toward the sideline.",
+      "steps": [
+        "Set two cones at the top of the key and two near the sideline at the baseline.",
+        "Start in stance at the top cone, nose on the inside shoulder of an imaginary ball handler.",
+        "Slide on a diagonal toward the sideline cone, staying between the ball and the middle.",
+        "At the cone, drop your outside foot and sit low like you just stopped the ball.",
+        "Jog back and repeat from the other top cone toward the other side."
+      ],
+      "cues": [
+        "Push it sideline",
+        "Stay low",
+        "No crossed feet"
+      ]
+    },
+    {
+      "id": "daily-2026-11-09-4",
+      "name": "Layup-to-Line Burnouts",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Sprint to the rim, finish, and run back to the far line while tired.",
+      "steps": [
+        "Start at half court with the ball.",
+        "Speed dribble in and make a right-hand layup.",
+        "Grab the rebound and sprint the ball back to half court.",
+        "Go again and make a left-hand layup.",
+        "Keep going for 40 seconds, then walk 20 seconds. Repeat 4 times.",
+        "Count your makes each round and try to match it."
+      ],
+      "cues": [
+        "Sprint to finish",
+        "Make it count",
+        "Breathe and go"
+      ]
+    }
+  ]
+}
