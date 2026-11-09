@@ -1,0 +1,1310 @@
+{
+  "week": "2026-11-09",
+  "workouts": [
+    {
+      "id": "daily-handles",
+      "summary": "Change speeds and directions on the driveway with both hands and your eyes up the whole time.",
+      "drills": [
+        {
+          "id": "week-2026-11-09-daily-handles-1",
+          "name": "In-and-Out Rhythm",
+          "category": "BH",
+          "seconds": 180,
+          "equipment": "1 ball",
+          "summary": "Sell a crossover with your hand, then keep the ball on the same side.",
+          "steps": [
+            "Get in a low stance with the ball in your right hand.",
+            "Push the ball in toward your body, then snap it back out.",
+            "Do 10 in-and-outs, then switch to your left hand.",
+            "Add a step forward on every snap-out."
+          ],
+          "cues": [
+            "Eyes up",
+            "Ride the ball",
+            "Snap it out"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-daily-handles-2",
+          "name": "Cross-Behind Counters",
+          "category": "BH",
+          "seconds": 240,
+          "equipment": "1 ball",
+          "summary": "Hit a crossover, then counter right away with a behind-the-back.",
+          "steps": [
+            "Start at one end of the driveway at half speed.",
+            "Cross right to left, then go behind your back left to right.",
+            "Take two hard dribbles forward after the counter.",
+            "Walk back and start from the other hand.",
+            "Go game speed once both hands are clean."
+          ],
+          "cues": [
+            "Cross low",
+            "Behind tight",
+            "Go after"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-daily-handles-3",
+          "name": "Stop-Start Change-Ups",
+          "category": "BH",
+          "seconds": 240,
+          "equipment": "1 ball",
+          "summary": "Go fast, stop on a dime, and explode again without losing the ball.",
+          "steps": [
+            "Sprint dribble 3-4 dribbles down the driveway.",
+            "Stop hard on two feet with the ball protected at your hip.",
+            "Hold one second with your eyes on the rim.",
+            "Explode out with a long first step.",
+            "Switch hands every rep."
+          ],
+          "cues": [
+            "Stop low",
+            "Ball protected",
+            "Burst out"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guard-iq",
+      "summary": "Watch game film and learn to see cutters, ball screen coverages and the first seconds of a possession like a point guard.",
+      "drills": [
+        {
+          "id": "week-2026-11-09-guard-iq-1",
+          "name": "Film: Weak-Side Cutters",
+          "category": "IQ",
+          "seconds": 600,
+          "equipment": "Game film on a phone or laptop",
+          "summary": "Watch 10 minutes of game film and watch the players on the side away from the ball.",
+          "steps": [
+            "Pick any college or pro game and start the clock.",
+            "Ignore the ball and watch the weak side.",
+            "Pause when a player cuts and say why they cut right then.",
+            "Notice if the passer saw the cut or missed it.",
+            "Write one or two takeaways in your notebook."
+          ],
+          "cues": [
+            "Watch away",
+            "Why now?"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-guard-iq-2",
+          "name": "Film: Hedge or Drop?",
+          "category": "IQ",
+          "seconds": 600,
+          "equipment": "Game film on a phone or laptop",
+          "summary": "Watch 10 minutes of game film and call the defense on every ball screen.",
+          "steps": [
+            "Find a game with lots of pick-and-roll.",
+            "Pause as the screen is set and say the coverage: drop, hedge, switch or trap.",
+            "Play it and see what the ball handler did against it.",
+            "Say if it was the right read or not.",
+            "Write one or two takeaways in your notebook."
+          ],
+          "cues": [
+            "Find the big",
+            "Call it",
+            "Right read?"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-guard-iq-3",
+          "name": "Film: First Three Seconds",
+          "category": "IQ",
+          "seconds": 600,
+          "equipment": "Game film on a phone or laptop",
+          "summary": "Watch 10 minutes of game film and watch what the point guard does right after a rebound or a make.",
+          "steps": [
+            "Start the clock on any game.",
+            "After every rebound or make, watch the point guard for three seconds.",
+            "Pause and say: did they push, pitch ahead or slow it down?",
+            "Ask yourself what you would have done.",
+            "Write one or two takeaways in your notebook."
+          ],
+          "cues": [
+            "Push or set?",
+            "Eyes ahead"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "score-the-rim",
+      "summary": "Gather strong, change pace on the drive, and finish with either hand around length.",
+      "drills": [
+        {
+          "id": "week-2026-11-09-score-the-rim-1",
+          "name": "Two-Hand Gather Layups",
+          "category": "FN",
+          "seconds": 180,
+          "equipment": "1 ball, hoop",
+          "summary": "Rip the ball into two hands before every finish to protect it.",
+          "steps": [
+            "Start at the wing with the ball.",
+            "Take one dribble toward the rim.",
+            "Gather the ball hard into two hands at your chest.",
+            "Finish off the glass with your outside hand.",
+            "Do both sides of the rim."
+          ],
+          "cues": [
+            "Two-hand gather",
+            "Chin the ball",
+            "Soft off glass"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-score-the-rim-2",
+          "name": "Change-of-Pace Drives",
+          "category": "BH",
+          "seconds": 180,
+          "equipment": "1 ball, hoop",
+          "summary": "Slow down to set up the defender, then hit the gas to the rim.",
+          "steps": [
+            "Start at the top of the key.",
+            "Dribble at half speed toward the elbow.",
+            "Lift your eyes and slow for one dribble.",
+            "Explode past the elbow and finish a layup.",
+            "Alternate right and left elbows."
+          ],
+          "cues": [
+            "Slow then fast",
+            "Eyes up",
+            "Long first step"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-score-the-rim-3",
+          "name": "Long-Arm Finishes",
+          "category": "FN",
+          "seconds": 240,
+          "equipment": "1 ball, hoop",
+          "summary": "Reach the ball high and away from an imaginary shot blocker.",
+          "steps": [
+            "Drive from the wing with one dribble.",
+            "Picture a big at the rim on your inside shoulder.",
+            "Shield with your body and extend the ball long.",
+            "Finish high off the glass with the hand away from the big.",
+            "Do 5 makes each side with each hand."
+          ],
+          "cues": [
+            "Reach long",
+            "Body between",
+            "Use the glass"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-score-the-rim-4",
+          "name": "Jump-Stop Pivot Finishes",
+          "category": "FN",
+          "seconds": 240,
+          "equipment": "1 ball, hoop",
+          "summary": "Drive at game speed, jump stop in the lane, then pivot and finish.",
+          "steps": [
+            "Drive hard from the top of the key.",
+            "Jump stop on two feet just outside the block.",
+            "Pivot away from the imaginary help defender.",
+            "Go up strong and finish off the glass.",
+            "Alternate drives to the right and left."
+          ],
+          "cues": [
+            "Stop balanced",
+            "Pivot away",
+            "Go up strong"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shot-lab",
+      "summary": "Clean up your release close in, then shoot on the move and off the dribble at game speed.",
+      "drills": [
+        {
+          "id": "week-2026-11-09-shot-lab-1",
+          "name": "Rim-Line Form Makes",
+          "category": "SH",
+          "seconds": 180,
+          "equipment": "1 ball, hoop",
+          "summary": "Groove one clean release from close range before you back up.",
+          "steps": [
+            "Stand one step from the rim, straight on.",
+            "Shoot with one hand and hold your follow-through.",
+            "Make 5, then take one step back.",
+            "Keep going until you reach the free throw line."
+          ],
+          "cues": [
+            "Elbow in",
+            "Hold it",
+            "Swish it"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-shot-lab-2",
+          "name": "Lift Cut Threes",
+          "category": "SH",
+          "seconds": 240,
+          "equipment": "1 ball, hoop, rebounder optional",
+          "summary": "Lift from the corner to the wing and shoot on the catch.",
+          "steps": [
+            "Start in the corner with the ball.",
+            "Toss the ball out to the wing, or have a rebounder pass it.",
+            "Lift up to the wing and catch with your feet ready.",
+            "Shoot right away with no extra dribble.",
+            "Do 10 shots, then switch sides."
+          ],
+          "cues": [
+            "Hands ready",
+            "Feet set",
+            "Rise up"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-shot-lab-3",
+          "name": "Cross-and-Rise Jumpers",
+          "category": "SH",
+          "seconds": 300,
+          "equipment": "1 ball, hoop, rebounder optional",
+          "summary": "Hit a hard crossover, then stop and rise into a pull-up.",
+          "steps": [
+            "Start at the top of the key.",
+            "Jab toward one side, then cross hard the other way.",
+            "Take one dribble and stop on two feet at the elbow.",
+            "Rise straight up and shoot.",
+            "Alternate directions and go game speed once it's clean."
+          ],
+          "cues": [
+            "Cross low",
+            "Stop on balance",
+            "Straight up"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lockdown",
+      "summary": "Turn your hips on time, keep a ball handler out of the middle, and close out under control.",
+      "drills": [
+        {
+          "id": "week-2026-11-09-lockdown-1",
+          "name": "Swing-Step Turns",
+          "category": "DF",
+          "seconds": 180,
+          "equipment": "None",
+          "summary": "Open your hips fast when the ball handler beats your slide.",
+          "steps": [
+            "Start in a low stance on the baseline.",
+            "Slide three steps to the right.",
+            "Swing your lead foot back to open your hips and run two steps.",
+            "Drop back into your stance and slide again.",
+            "Go down and back, leading with each side."
+          ],
+          "cues": [
+            "Stay low",
+            "Open hips",
+            "Back in stance"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-lockdown-2",
+          "name": "Lane Wall Contain",
+          "category": "DF",
+          "seconds": 240,
+          "equipment": "1 ball, partner",
+          "summary": "Stay in front of a ball handler inside the lane lines with no reaching.",
+          "steps": [
+            "Your partner dribbles from the free throw line toward the baseline.",
+            "Stay inside the lane lines and keep your chest in front.",
+            "Slide only, no reaching for the ball.",
+            "Go 3 reps on defense, then switch.",
+            "Partner goes game speed once you're solid."
+          ],
+          "cues": [
+            "Chest in front",
+            "Hands active",
+            "No reaching"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-lockdown-3",
+          "name": "Rim-to-Arc Contests",
+          "category": "DF",
+          "seconds": 240,
+          "equipment": "1 ball, partner",
+          "summary": "Close out from the rim to a shooter and contest without flying by.",
+          "steps": [
+            "Start under the rim while your partner stands at the arc.",
+            "Partner catches a self-toss and gets ready to shoot.",
+            "Sprint out, then chop your feet halfway.",
+            "Arrive with a high hand and stay balanced.",
+            "Partner shoots or drives; stay in front if they drive."
+          ],
+          "cues": [
+            "Sprint then chop",
+            "High hand",
+            "Stay balanced"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "engine",
+      "summary": "Build game-speed lungs with short rest, changing speeds and directions like a guard.",
+      "drills": [
+        {
+          "id": "week-2026-11-09-engine-1",
+          "name": "Half-Court Tempo Builds",
+          "category": "CN",
+          "seconds": 180,
+          "equipment": "Cones",
+          "summary": "Run half court at three speeds to warm up your engine.",
+          "steps": [
+            "Line up on the baseline.",
+            "Jog to half court and walk back.",
+            "Run 75% to half court and walk back.",
+            "Sprint full speed to half court and walk back.",
+            "Repeat the set until time is up."
+          ],
+          "cues": [
+            "Build speed",
+            "Tall posture"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-engine-2",
+          "name": "Sprint-Backpedal Ladders",
+          "category": "CN",
+          "seconds": 180,
+          "equipment": "Cones",
+          "summary": "Sprint forward and backpedal back to cones that get farther away.",
+          "steps": [
+            "Set cones at the free throw line, half court and far free throw line.",
+            "Sprint to the first cone and backpedal to the baseline.",
+            "Do the same for the second and third cones.",
+            "Rest 20 seconds and go again."
+          ],
+          "cues": [
+            "Low backpedal",
+            "Quick turn",
+            "Push the pace"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-engine-3",
+          "name": "Dribble Down, Slide Back",
+          "category": "CN",
+          "seconds": 240,
+          "equipment": "1 ball, cones",
+          "summary": "Speed dribble down the floor, then defensive slide back.",
+          "steps": [
+            "Speed dribble from the baseline to half court.",
+            "Leave the ball at half court.",
+            "Defensive slide back to the baseline.",
+            "Run back, grab the ball and repeat using your other hand.",
+            "Rest 20 seconds after each round trip."
+          ],
+          "cues": [
+            "Push it ahead",
+            "Stay low",
+            "No rest early"
+          ]
+        },
+        {
+          "id": "week-2026-11-09-engine-4",
+          "name": "Minute Makes Challenge",
+          "category": "CN",
+          "seconds": 180,
+          "equipment": "1 ball",
+          "summary": "Score as many full-court layups as you can in one minute.",
+          "steps": [
+            "Start on the baseline with the ball.",
+            "Speed dribble the full court and finish a layup.",
+            "Grab the ball and go right back the other way.",
+            "Count your makes in one minute, then rest one minute.",
+            "Do it again and try to beat your score."
+          ],
+          "cues": [
+            "Eyes up",
+            "Finish strong",
+            "Beat your score"
+          ]
+        }
+      ]
+    }
+  ],
+  "levels": {
+    "beginner": [
+      {
+        "id": "daily-handles",
+        "summary": "Simple one-hand control and a stop-and-go dribble on the driveway, with your eyes up the whole time.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-beginner-daily-handles-1",
+            "name": "Side-to-Side V Dribbles",
+            "category": "BH",
+            "seconds": 120,
+            "equipment": "1 ball",
+            "summary": "Control the ball side to side with one hand.",
+            "steps": [
+              "Get in a low stance with the ball in your right hand.",
+              "Push the ball side to side in front of you, making a V shape.",
+              "Keep the ball below your knees.",
+              "After 60 seconds, switch to your left hand."
+            ],
+            "cues": [
+              "Eyes up",
+              "Pound it hard",
+              "Stay low"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-daily-handles-2",
+            "name": "Behind-the-Back Basics",
+            "category": "BH",
+            "seconds": 150,
+            "equipment": "1 ball",
+            "summary": "Learn a clean behind-the-back dribble while standing still.",
+            "steps": [
+              "Stand in a stance with the ball in your right hand at your hip.",
+              "Wrap the ball behind your back to your left hand.",
+              "Catch it at your left hip and hold one dribble.",
+              "Go back the other way.",
+              "Speed up only when every rep is clean."
+            ],
+            "cues": [
+              "Wrap the hip",
+              "Eyes up",
+              "Soft catch"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-daily-handles-3",
+            "name": "Red Light, Green Light Dribble",
+            "category": "BH",
+            "seconds": 150,
+            "equipment": "1 ball",
+            "summary": "Dribble forward, stop in balance, then go again.",
+            "steps": [
+              "Start at one end of the driveway.",
+              "Dribble forward at half speed.",
+              "Say \"red light\" and stop in a low stance, still dribbling.",
+              "Say \"green light\" and push off again.",
+              "Go up with your right hand and back with your left."
+            ],
+            "cues": [
+              "Stop low",
+              "Keep dribbling",
+              "Eyes up"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "guard-iq",
+        "summary": "Watch one player at a time and learn what a good guard does with and without the ball.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-beginner-guard-iq-1",
+            "name": "Film: Pass and Move",
+            "category": "IQ",
+            "seconds": 600,
+            "equipment": "Game film on a phone or laptop",
+            "summary": "Watch what one guard does right after passing the ball.",
+            "steps": [
+              "Watch 10 minutes of game film and pick one guard.",
+              "Every time they pass, watch only them, not the ball.",
+              "Pause and say what they did: cut, space out, or screen.",
+              "Notice when they just stood still.",
+              "Write one or two takeaways in your notebook."
+            ],
+            "cues": [
+              "Watch the passer",
+              "Don't stand",
+              "Say it out loud"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-guard-iq-2",
+            "name": "Film: Guarding the Ball",
+            "category": "IQ",
+            "seconds": 600,
+            "equipment": "Game film on a phone or laptop",
+            "summary": "Watch one defender guarding the ball handler.",
+            "steps": [
+              "Watch 10 minutes of game film and pick the defender on the ball.",
+              "Watch their feet, hands and how far they stand from the ball.",
+              "Pause when the ball handler drives.",
+              "Say if the defender stayed in front or got beat, and why.",
+              "Write one or two takeaways in your notebook."
+            ],
+            "cues": [
+              "Watch the feet",
+              "Find the gap",
+              "Pause and say"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "score-the-rim",
+        "summary": "Learn clean layup footwork, then finish off a drive from the baseline and the top.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-beginner-score-the-rim-1",
+            "name": "Layup Footwork Walk-Through",
+            "category": "FN",
+            "seconds": 120,
+            "equipment": "1 ball, hoop",
+            "summary": "Learn the two-step layup with no rush.",
+            "steps": [
+              "Start on the right wing, three steps from the rim.",
+              "Step right, then left, and lay it up with your right hand.",
+              "Walk through it slowly, then go at half speed.",
+              "Switch to the left side: left, right, left hand."
+            ],
+            "cues": [
+              "Right-left-up",
+              "Knee up",
+              "Soft off glass"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-score-the-rim-2",
+            "name": "Baseline Drive Layups",
+            "category": "FN",
+            "seconds": 150,
+            "equipment": "1 ball, hoop",
+            "summary": "Drive the baseline with one or two dribbles and finish.",
+            "steps": [
+              "Start in the short corner on the right side.",
+              "Take one or two dribbles along the baseline.",
+              "Finish with your right hand off the glass.",
+              "Get your rebound and go to the left side.",
+              "Finish with your left hand on that side."
+            ],
+            "cues": [
+              "Stay tight",
+              "Eyes on the square",
+              "Outside hand"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-score-the-rim-3",
+            "name": "Top-of-Key Attack Layups",
+            "category": "FN",
+            "seconds": 150,
+            "equipment": "1 ball, hoop",
+            "summary": "Drive from the top and finish with the correct hand.",
+            "steps": [
+              "Start at the top of the key.",
+              "Drive to the right side with your right hand.",
+              "Take two or three dribbles and lay it in right-handed.",
+              "Go back to the top and drive left, finishing left-handed.",
+              "Keep it controlled and make every layup."
+            ],
+            "cues": [
+              "Low first dribble",
+              "Two hard steps",
+              "Finish high"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shot-lab",
+        "summary": "Build a clean shot close to the rim, move out around the key, then add one dribble.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-beginner-shot-lab-1",
+            "name": "Arc and Hold Shots",
+            "category": "SH",
+            "seconds": 150,
+            "equipment": "1 ball, hoop, optional rebounder",
+            "summary": "Shoot close with high arc and hold your follow-through.",
+            "steps": [
+              "Start one step from the rim, right in front.",
+              "Shoot with high arc and hold your follow-through until the ball lands.",
+              "Make 3, then take one step back.",
+              "Move to the left and right blocks too."
+            ],
+            "cues": [
+              "Hand in cookie jar",
+              "Hold it",
+              "High arc"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-shot-lab-2",
+            "name": "Around the Key Set Shots",
+            "category": "SH",
+            "seconds": 180,
+            "equipment": "1 ball, hoop, optional rebounder",
+            "summary": "Hit set shots from spots around the paint.",
+            "steps": [
+              "Pick 5 spots around the edge of the paint.",
+              "Square your feet to the rim at each spot.",
+              "Make 2 shots, then move to the next spot.",
+              "Go around the key twice."
+            ],
+            "cues": [
+              "Feet set",
+              "Elbow under",
+              "Same shot"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-shot-lab-3",
+            "name": "One-Dribble Elbow Pull-Ups",
+            "category": "SH",
+            "seconds": 150,
+            "equipment": "1 ball, hoop, optional rebounder",
+            "summary": "Take one dribble, stop in balance and shoot.",
+            "steps": [
+              "Start on the wing facing the elbow.",
+              "Take one dribble toward the elbow.",
+              "Jump stop with both feet square to the rim.",
+              "Rise up and shoot.",
+              "Do 5 reps going right, then 5 going left."
+            ],
+            "cues": [
+              "Stop square",
+              "Go straight up",
+              "Land soft"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lockdown",
+        "summary": "Learn to slide without crossing your feet, then use it against a partner on the drive and the closeout.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-beginner-lockdown-1",
+            "name": "Push-Step Line Slides",
+            "category": "DF",
+            "seconds": 120,
+            "equipment": "Court line",
+            "summary": "Slide along a line with good stance and no crossed feet.",
+            "steps": [
+              "Get in a stance with your feet wide on a line.",
+              "Push off your back foot and step with your lead foot.",
+              "Slide 5 steps one way, then 5 back.",
+              "Keep your hands active and your back flat."
+            ],
+            "cues": [
+              "Push, don't hop",
+              "Never cross",
+              "Stay low"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-lockdown-2",
+            "name": "Cushion and Contain",
+            "category": "DF",
+            "seconds": 150,
+            "equipment": "Partner, 1 ball, 2 cones",
+            "summary": "Stay an arm's length in front of a slow dribbler.",
+            "steps": [
+              "Set 2 cones about 4 big steps apart to make a lane.",
+              "Your partner dribbles at half speed down the lane.",
+              "Slide and keep one arm's length between you.",
+              "Go baseline to half-court, then switch roles.",
+              "No reaching for the ball."
+            ],
+            "cues": [
+              "Arm's length",
+              "Chest in front",
+              "Slide, slide"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-lockdown-3",
+            "name": "Corner Closeout Stops",
+            "category": "DF",
+            "seconds": 150,
+            "equipment": "Partner, 1 ball",
+            "summary": "Run at a shooter, then stop under control.",
+            "steps": [
+              "Your partner stands in the corner holding the ball.",
+              "Start in the middle of the paint.",
+              "Sprint halfway, then take short, choppy steps.",
+              "Stop an arm's length away with one hand high.",
+              "Hold your stance for 2 seconds, then reset.",
+              "Do 5 reps, then switch roles."
+            ],
+            "cues": [
+              "Sprint, then chop",
+              "High hand",
+              "Don't fly by"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "engine",
+        "summary": "Short runs and dribble repeats at game speed to build a guard's engine.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-beginner-engine-1",
+            "name": "Cone Shuttle Runs",
+            "category": "CN",
+            "seconds": 90,
+            "equipment": "3 cones",
+            "summary": "Run out and back to cones at a steady, quick pace.",
+            "steps": [
+              "Set cones 5, 10 and 15 steps from the baseline.",
+              "Run to the first cone, touch it, and run back.",
+              "Do the same for the second and third cones.",
+              "Rest 30 seconds and repeat once."
+            ],
+            "cues": [
+              "Low on turns",
+              "Touch the cone",
+              "Push back"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-engine-2",
+            "name": "Baseline-Half Dribble Repeats",
+            "category": "CN",
+            "seconds": 150,
+            "equipment": "1 ball",
+            "summary": "Speed dribble to half-court and back with short rest.",
+            "steps": [
+              "Start on the baseline with the ball.",
+              "Speed dribble to half-court with your right hand.",
+              "Come back with your left hand.",
+              "Work 20 seconds, rest 20 seconds.",
+              "Keep going until time is up."
+            ],
+            "cues": [
+              "Push it ahead",
+              "Eyes up",
+              "Finish strong"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-beginner-engine-3",
+            "name": "Three-Cone Triangle Runs",
+            "category": "CN",
+            "seconds": 150,
+            "equipment": "3 cones",
+            "summary": "Sprint, slide and backpedal around a triangle of cones.",
+            "steps": [
+              "Set 3 cones in a triangle, about 6 steps apart.",
+              "Sprint from cone 1 to cone 2.",
+              "Defensive slide from cone 2 to cone 3.",
+              "Backpedal from cone 3 back to cone 1.",
+              "Work 30 seconds, rest 20 seconds, then go the other way."
+            ],
+            "cues": [
+              "Change gears",
+              "Stay balanced",
+              "Keep moving"
+            ]
+          }
+        ]
+      }
+    ],
+    "advanced": [
+      {
+        "id": "daily-handles",
+        "summary": "Game-speed combos with your eyes locked up and both hands working, built to hold up when your legs are tired.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-advanced-daily-handles-1",
+            "name": "Pocket Pull Rhythm",
+            "category": "BH",
+            "seconds": 240,
+            "equipment": "1 ball",
+            "summary": "Pull the ball into your pocket and keep a steady rhythm with both hands.",
+            "steps": [
+              "Stand in a low stance with the ball in your right hand.",
+              "Pound hard and pull the ball back to your hip pocket on every dribble.",
+              "Do 30 seconds right, then 30 seconds left.",
+              "Add a crossover every third dribble and keep the pocket pull.",
+              "Finish with 60 seconds of switching hands at full speed."
+            ],
+            "cues": [
+              "Pocket it",
+              "Eyes up",
+              "Hard pound"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-daily-handles-2",
+            "name": "Fixed-Target Moves",
+            "category": "BH",
+            "seconds": 240,
+            "equipment": "1 ball",
+            "summary": "Lock your eyes on one spot and make every move without looking down.",
+            "steps": [
+              "Pick a target at head height, like the rim or a garage light.",
+              "Keep your eyes on it the whole time.",
+              "Do 20 seconds each: crossover, between the legs, behind the back.",
+              "Then mix all three in any order at full speed.",
+              "If you look down, restart that move."
+            ],
+            "cues": [
+              "Eyes on target",
+              "Feel the ball",
+              "Stay low"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-daily-handles-3",
+            "name": "Hesi-Cross-Spin Chains",
+            "category": "BH",
+            "seconds": 300,
+            "equipment": "1 ball",
+            "summary": "Chain three moves together and explode out of the last one.",
+            "steps": [
+              "Start at one end of the driveway at game speed.",
+              "Hesitate, then cross over, then spin the other way.",
+              "Explode three hard dribbles out of the spin.",
+              "Walk back and start from the other hand.",
+              "Every rep, change the order of the moves."
+            ],
+            "cues": [
+              "Sell the hesi",
+              "Tight spin",
+              "Explode out"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-daily-handles-4",
+            "name": "Sixty-Second Shift Rounds",
+            "category": "BH",
+            "seconds": 300,
+            "equipment": "1 ball",
+            "summary": "Five 60-second rounds of nonstop combos to keep your handle clean when you're tired.",
+            "steps": [
+              "Set a 60-second timer with 15 seconds rest between rounds.",
+              "Round 1: cross and between the legs, nonstop.",
+              "Round 2: behind the back and in-and-out.",
+              "Round 3: your best two-move combo, both directions.",
+              "Rounds 4 and 5: make up combos on the fly, no repeats."
+            ],
+            "cues": [
+              "Never stop",
+              "Clean hands",
+              "Eyes up"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "guard-iq",
+        "summary": "Scout like a varsity point guard: hunt mismatches, break down zone gaps and make the right late-game clock calls.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-advanced-guard-iq-1",
+            "name": "Film: Hunt the Mismatch",
+            "category": "IQ",
+            "seconds": 600,
+            "equipment": "Game film on a phone or laptop",
+            "summary": "Watch how teams force switches and attack the weak defender.",
+            "steps": [
+              "Watch 10 minutes of game film and watch for switches on screens.",
+              "After every switch, pause and say who the mismatch is.",
+              "Say how the offense should attack it: post up, iso or drive.",
+              "Watch if they used it or wasted it.",
+              "Write two takeaways in your notebook."
+            ],
+            "cues": [
+              "Find the switch",
+              "Name the mismatch",
+              "Attack it"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-guard-iq-2",
+            "name": "Film: Zone Seams and Gaps",
+            "category": "IQ",
+            "seconds": 600,
+            "equipment": "Game film on a phone or laptop",
+            "summary": "Find where a zone is weak and how guards split it.",
+            "steps": [
+              "Watch 10 minutes of game film against a zone defense.",
+              "Pause each trip and say the zone type: 2-3, 3-2 or 1-3-1.",
+              "Point out the gaps between defenders and the open high post.",
+              "Watch for a guard driving the gap to pull two defenders.",
+              "Say who was open after the pass.",
+              "Write one or two takeaways in your notebook."
+            ],
+            "cues": [
+              "Name the zone",
+              "Find the gap",
+              "Draw two"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-guard-iq-3",
+            "name": "Film: Clock and Score Calls",
+            "category": "IQ",
+            "seconds": 600,
+            "equipment": "Game film on a phone or laptop",
+            "summary": "Study the last two minutes of close games and judge every clock decision.",
+            "steps": [
+              "Watch 10 minutes of the final two minutes of close games.",
+              "Before each possession, pause and say the score, clock and fouls.",
+              "Say your call: 2-for-1, hold for the last shot, or foul.",
+              "Play it and see what the team did.",
+              "Note any timeout or foul you would have done differently.",
+              "Write two takeaways in your notebook."
+            ],
+            "cues": [
+              "Check the clock",
+              "Know the score",
+              "Make the call"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "score-the-rim",
+        "summary": "Attack the rim at full speed with late gathers, hang-time finishes and tired-legs reps from every angle.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-advanced-score-the-rim-1",
+            "name": "Low-Gather Rip Finishes",
+            "category": "FN",
+            "seconds": 240,
+            "equipment": "1 ball, hoop",
+            "summary": "Gather low and away from the defender, then rip up and finish.",
+            "steps": [
+              "Start on the right wing.",
+              "Drive two hard dribbles to the rim.",
+              "Gather the ball low by your outside hip.",
+              "Rip it up high and finish with the right hand.",
+              "Do 2 minutes each side, finishing with the outside hand."
+            ],
+            "cues": [
+              "Gather low",
+              "Rip it high",
+              "Outside hand"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-score-the-rim-2",
+            "name": "Rim Attack Dribble Combos",
+            "category": "BH",
+            "seconds": 240,
+            "equipment": "1 ball, hoop",
+            "summary": "Hit a combo move at the arc and get downhill in two dribbles.",
+            "steps": [
+              "Start at the top of the key, facing the rim.",
+              "Hit a combo: hesi-cross, in-and-out or between-cross.",
+              "Get to the rim in two dribbles and finish.",
+              "Rotate through all three combos, both hands.",
+              "Every rep at full game speed."
+            ],
+            "cues": [
+              "Combo then go",
+              "Two dribbles",
+              "Downhill"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-score-the-rim-3",
+            "name": "Delay Layup Hangs",
+            "category": "FN",
+            "seconds": 300,
+            "equipment": "1 ball, hoop",
+            "summary": "Hold the ball one beat longer to beat a shot blocker's timing.",
+            "steps": [
+              "Drive from the wing at full speed.",
+              "Jump off one foot and keep the ball high and tight.",
+              "Wait for the shot blocker to come down in your head, then release.",
+              "Finish off the glass with either hand.",
+              "Alternate wings and hands every rep."
+            ],
+            "cues": [
+              "Hold it",
+              "Wait him out",
+              "Soft glass"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-score-the-rim-4",
+            "name": "Five-Spot Rim Gauntlet",
+            "category": "FN",
+            "seconds": 300,
+            "equipment": "1 ball, hoop",
+            "summary": "Nonstop drives from five spots with a different finish each time.",
+            "steps": [
+              "Set five spots: both corners, both wings, top.",
+              "Drive from a spot and finish, grab the rebound, sprint to the next spot.",
+              "Finishes rotate: right hand, left hand, reverse, floater, two-foot.",
+              "Go 60 seconds on, 15 seconds rest.",
+              "Count makes and beat your score next round."
+            ],
+            "cues": [
+              "Sprint to spot",
+              "Finish strong",
+              "Both hands"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shot-lab",
+        "summary": "Build range, shoot off the sprint and the dribble, then hit shots under game-winner pressure.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-advanced-shot-lab-1",
+            "name": "Hold-the-Finish Range Walk",
+            "category": "SH",
+            "seconds": 240,
+            "equipment": "1 ball, hoop",
+            "summary": "Groove your shot from close and step back only when you make it.",
+            "steps": [
+              "Start 5 feet in front of the rim.",
+              "Shoot and hold your follow-through until the ball lands.",
+              "Make 2 in a row, then take one step back.",
+              "Miss 2 in a row, take one step in.",
+              "Work out to the three-point line."
+            ],
+            "cues": [
+              "Hold the finish",
+              "Same shot",
+              "Feet set"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-shot-lab-2",
+            "name": "Sprint-to-Spot Catch Threes",
+            "category": "SH",
+            "seconds": 300,
+            "equipment": "1 ball, hoop, rebounder optional",
+            "summary": "Sprint to the arc, catch on balance and fire.",
+            "steps": [
+              "Start under the rim.",
+              "Sprint to a three-point spot, hands ready.",
+              "Catch from a rebounder or self-toss and shoot right away.",
+              "Sprint back to the rim and go to the next spot.",
+              "Rotate five spots, count makes."
+            ],
+            "cues": [
+              "Hands ready",
+              "Feet first",
+              "Rise up"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-shot-lab-3",
+            "name": "Side-Dribble Pull-Up Combos",
+            "category": "SH",
+            "seconds": 300,
+            "equipment": "1 ball, hoop",
+            "summary": "Shake a defender with a dribble move and pull up on balance.",
+            "steps": [
+              "Start on the wing at the arc.",
+              "Jab, then one hard dribble right and pull up.",
+              "Next rep, one dribble left and pull up.",
+              "Then crossover into a pull-up both ways.",
+              "Shoot from midrange first, then the arc."
+            ],
+            "cues": [
+              "Stop on balance",
+              "Square up",
+              "Snap it"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-shot-lab-4",
+            "name": "Game-Winner Shot Series",
+            "category": "SH",
+            "seconds": 300,
+            "equipment": "1 ball, hoop, rebounder optional",
+            "summary": "Count down from 5 and make the last shot of the game.",
+            "steps": [
+              "Start at half court with the ball.",
+              "Count down from 5 out loud as you attack.",
+              "Get to your best shot before 0 and shoot.",
+              "Score it: 3 for a three, 2 for a two, 0 for a miss.",
+              "Play to 15 points, then do it again from the other side."
+            ],
+            "cues": [
+              "Know your spot",
+              "Beat the clock",
+              "Clutch release"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lockdown",
+        "summary": "Explosive first slides, fighting over screens and stunt-and-recover reps, then live stops against a partner.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-advanced-lockdown-1",
+            "name": "Explosive First-Slide Starts",
+            "category": "DF",
+            "seconds": 240,
+            "equipment": "Cones",
+            "summary": "Win the first step when a guard tries to blow by you.",
+            "steps": [
+              "Get in stance on a line with cones 3 big steps to each side.",
+              "Push off your inside foot hard to the right cone.",
+              "Slide back to the middle and hold stance for a second.",
+              "Go left, then right, at full speed.",
+              "Do 30 seconds on, 10 seconds rest."
+            ],
+            "cues": [
+              "Push, don't step",
+              "Stay low",
+              "Hands active"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-lockdown-2",
+            "name": "Cone Screen Fight-Overs",
+            "category": "DF",
+            "seconds": 240,
+            "equipment": "Cones",
+            "summary": "Get skinny and fight over a ball screen without losing your man.",
+            "steps": [
+              "Set a cone at the elbow as the screener.",
+              "Slide toward the cone like you are guarding the ball.",
+              "Turn your hips, get skinny and squeeze over the top of the cone.",
+              "Recover back into stance on the other side.",
+              "Go both directions, full speed."
+            ],
+            "cues": [
+              "Get skinny",
+              "Over the top",
+              "Get back in front"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-lockdown-3",
+            "name": "Stunt and Recover Reps",
+            "category": "DF",
+            "seconds": 300,
+            "equipment": "Cones",
+            "summary": "Stunt at the driver, then recover to your shooter fast.",
+            "steps": [
+              "Set a cone on the wing as your shooter.",
+              "Start in help position in the lane.",
+              "Take a hard stunt step toward the middle with your hands up.",
+              "Recover and close out to the wing cone with short chop steps.",
+              "Repeat from both sides at game speed."
+            ],
+            "cues": [
+              "Stunt hard",
+              "Sprint, then chop",
+              "High hand"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-lockdown-4",
+            "name": "Iso Stop Streaks",
+            "category": "DF",
+            "seconds": 300,
+            "equipment": "1 ball, partner",
+            "summary": "Get stops against a partner with a three-dribble limit.",
+            "steps": [
+              "Partner starts with the ball on the wing.",
+              "Partner gets three dribbles to score.",
+              "Guard the ball, no reaching, contest the shot.",
+              "Count your stops in a row.",
+              "Switch roles every 60 seconds."
+            ],
+            "cues": [
+              "Chest in front",
+              "No reaching",
+              "Contest high"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "engine",
+        "summary": "Game-speed tempo runs, diagonal closeouts and full-court possessions with short rest so your legs hold up late.",
+        "drills": [
+          {
+            "id": "week-2026-11-09-advanced-engine-1",
+            "name": "Dribble-Stop Tempo Waves",
+            "category": "CN",
+            "seconds": 240,
+            "equipment": "1 ball, cones",
+            "summary": "Change speeds full court with hard stops at every line.",
+            "steps": [
+              "Dribble from the baseline at full speed.",
+              "Hard stop at the free throw line, hesitate, then sprint.",
+              "Hard stop at half court and far free throw line.",
+              "Sprint back with the other hand.",
+              "Go 45 seconds on, 15 seconds rest."
+            ],
+            "cues": [
+              "Stop on a dime",
+              "Then go",
+              "Eyes up"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-engine-2",
+            "name": "Diagonal Closeout Runs",
+            "category": "CN",
+            "seconds": 240,
+            "equipment": "Cones",
+            "summary": "Sprint corner to corner and close out at each cone.",
+            "steps": [
+              "Set a cone at each corner of the half court.",
+              "Sprint diagonal from one corner to the far cone.",
+              "Break down into a closeout with chop steps at the cone.",
+              "Sprint to the next corner.",
+              "Go 40 seconds on, 20 seconds rest."
+            ],
+            "cues": [
+              "Full sprint",
+              "Chop steps",
+              "Hands up"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-engine-3",
+            "name": "Defend-and-Break Bursts",
+            "category": "DF",
+            "seconds": 240,
+            "equipment": "Cones",
+            "summary": "Slide hard on defense, then flip your hips and sprint out.",
+            "steps": [
+              "Start in stance on the lane line.",
+              "Slide across the lane and back two times.",
+              "Open your hips and sprint to half court.",
+              "Backpedal back to the lane.",
+              "Repeat with 15 seconds rest between sets."
+            ],
+            "cues": [
+              "Low slides",
+              "Flip and go",
+              "Stay tough"
+            ]
+          },
+          {
+            "id": "week-2026-11-09-advanced-engine-4",
+            "name": "Full-Court Clock Possessions",
+            "category": "CN",
+            "seconds": 300,
+            "equipment": "1 ball, cones",
+            "summary": "Play full-court possessions on a 24-second clock until you are tired.",
+            "steps": [
+              "Set two cones as defenders on the way up the floor.",
+              "Push the ball full court and hit a move at each cone.",
+              "Finish at the rim, grab it and push back the other way.",
+              "Each trip must be done before 24 seconds.",
+              "Rest 10 seconds, then go again."
+            ],
+            "cues": [
+              "Push it",
+              "Beat the clock",
+              "Finish tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
