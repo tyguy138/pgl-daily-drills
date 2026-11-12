@@ -1,86 +1,85 @@
 {
-  "date": "2026-11-11",
-  "name": "Handles, Finishes & Jumpers",
-  "summary": "Warm up your handle, attack the rim in two dribbles, hit elbow jumpers, then finish with shooting under fatigue.",
+  "date": "2026-11-12",
+  "name": "Handles, Pull-Ups & Defense",
+  "summary": "Tighten your handle in a small space, finish off the wrong foot, pull up off a curl and finish with a defensive slide circuit.",
   "drills": [
     {
-      "id": "daily-2026-11-11-1",
-      "name": "Between-the-Legs Walk-Ups",
+      "id": "daily-2026-11-12-1",
+      "name": "Tight Box Dribble Series",
       "category": "BH",
       "seconds": 180,
-      "equipment": "1 ball",
-      "summary": "Get loose and control the ball through your legs on the move.",
+      "equipment": "1 ball, 4 cones",
+      "summary": "Keep the ball tight and your eyes up while moving in a small space.",
       "steps": [
-        "Start on the baseline in a low stance.",
-        "Walk forward and go between the legs on every step.",
-        "Keep the ball low and snap it hand to hand.",
-        "At half court, turn and walk back the same way.",
-        "Last minute: speed up to a jog and stay clean."
+        "Set 4 cones in a box about two steps wide.",
+        "Dribble around the box in a low stance, right hand going one way.",
+        "At each cone, hit a crossover and keep moving.",
+        "Switch directions and lead with your left hand.",
+        "Last minute: pick a move at each cone (cross, between, behind)."
       ],
       "cues": [
         "Eyes up",
-        "Low and quick",
-        "Snap it through"
+        "Ball stays tight",
+        "Low and quick"
       ]
     },
     {
-      "id": "daily-2026-11-11-2",
-      "name": "Two-Dribble Rim Attacks",
+      "id": "daily-2026-11-12-2",
+      "name": "Wrong-Foot Layups",
       "category": "FN",
-      "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Get from the arc to the rim in two dribbles or less.",
+      "seconds": 180,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Finish off the 'wrong' foot to throw off the shot blocker's timing.",
       "steps": [
-        "Start at the right wing behind the three-point line.",
-        "Jab, then attack the rim with two hard dribbles max.",
-        "Finish with a right-hand layup off the glass.",
-        "Rebound, go to the left wing, and finish lefty.",
-        "Rotate wing, top, and both corners each round."
+        "Start on the right wing and attack the rim with two dribbles.",
+        "Jump off your right foot and finish with your right hand.",
+        "Do 5 makes, then switch to the left side and go off your left foot.",
+        "Last round, mix regular and wrong-foot finishes."
       ],
       "cues": [
-        "Two dribbles max",
-        "Long strides",
-        "High off glass"
+        "Change the timing",
+        "High off glass",
+        "Soft touch"
       ]
     },
     {
-      "id": "daily-2026-11-11-3",
-      "name": "Elbow-to-Elbow Shuffle Shots",
+      "id": "daily-2026-11-12-3",
+      "name": "Cone Curl Pull-Ups",
       "category": "SH",
       "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Shoot from the elbow, shuffle across, and get set fast.",
+      "equipment": "1 ball, 1 hoop, 1 cone",
+      "summary": "Curl tight around a screen and rise into a balanced pull-up.",
       "steps": [
-        "Start at the right elbow, ball in your shot pocket.",
-        "Shoot a jumper, grab the rebound, and spin the ball out to yourself at the left elbow.",
-        "Hop into the catch with your feet set and shoot again.",
-        "Keep going elbow to elbow for the full time.",
-        "Count your makes and try to beat it next time."
+        "Put a cone at the free-throw line extended as your screen.",
+        "Start on the wing and dribble hard toward the cone.",
+        "Curl tight around it, shoulder close to the cone.",
+        "Square up with a hop or a 1-2 stop and shoot at the elbow.",
+        "Do both sides, 5 shots each, and track your makes."
       ],
       "cues": [
-        "Feet set first",
-        "Hold the follow-through",
-        "Same shot every time"
+        "Shave the cone",
+        "Stop on balance",
+        "Hold the finish"
       ]
     },
     {
-      "id": "daily-2026-11-11-4",
-      "name": "Make-Two Sprint Rounds",
-      "category": "CN",
+      "id": "daily-2026-11-12-4",
+      "name": "Five-Cone Defensive Star",
+      "category": "DF",
       "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Make two shots, sprint, then shoot again while tired.",
+      "equipment": "5 cones",
+      "summary": "Slide, close out and recover in every direction to build defensive legs.",
       "steps": [
-        "Start at the free throw line.",
-        "Shoot until you make two in a row.",
-        "Leave the ball at the line, sprint to half court and back.",
-        "If you are on a driveway, sprint to the end and back.",
-        "Repeat for the full time and count your rounds."
+        "Set one cone in the middle and four cones around it, about 4 steps out.",
+        "Start at the middle in a stance and slide out to the first cone.",
+        "Touch it, then backpedal or slide back to the middle.",
+        "Go to every cone around the star, then reverse the order.",
+        "Work 40 seconds, rest 20, and repeat four rounds."
       ],
       "cues": [
-        "Breathe, then shoot",
-        "Sprint all out",
-        "Legs in the shot"
+        "Stay low",
+        "Don't cross feet",
+        "Hands active"
       ]
     }
   ]
