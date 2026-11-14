@@ -1,86 +1,85 @@
 {
-  "date": "2026-11-13",
-  "name": "Reads Into Jumpers",
-  "summary": "Warm up your handle, make quick reads off a coin flip, score off a pass fake, then finish tired at the rim.",
+  "date": "2026-11-14",
+  "name": "Triple Threat Reads",
+  "summary": "Warm up your handle, read a live hand signal, attack from triple threat with the jab, then finish with a tough defensive slide circuit.",
   "drills": [
     {
-      "id": "daily-2026-11-13-1",
-      "name": "Low Shuffle Dribbles",
+      "id": "daily-2026-11-14-1",
+      "name": "Fingertip Control Circuit",
       "category": "BH",
       "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Keep a hard, low dribble while your feet slide side to side.",
+      "summary": "Wake up your hands with tight, quick dribbles at different heights.",
       "steps": [
-        "Get in a low stance at the baseline.",
-        "Shuffle sideways to the lane line while pounding the ball with your right hand.",
-        "Shuffle back with your left hand.",
-        "Keep your feet wide. Never cross them.",
-        "Last minute, add a crossover each time you change direction."
+        "Dribble at ankle height with your right hand for 20 seconds, as fast as you can.",
+        "Switch to knee height, then waist height, 20 seconds each.",
+        "Repeat all three heights with your left hand.",
+        "Finish with 30 seconds of crossovers, going lower every 10 seconds."
       ],
       "cues": [
-        "Stay low",
+        "Fingers, not palm",
         "Eyes up",
-        "Pound it"
+        "Stay low"
       ]
     },
     {
-      "id": "daily-2026-11-13-2",
-      "name": "Coin Flip Attack Reads",
+      "id": "daily-2026-11-14-2",
+      "name": "Hand Signal Reads",
       "category": "IQ",
-      "seconds": 180,
-      "equipment": "1 ball, 1 cone, 1 coin",
-      "summary": "Attack the rim and let a coin flip tell you whether help comes.",
+      "seconds": 240,
+      "equipment": "1 ball, partner",
+      "summary": "Read your partner's hand and make the right play fast.",
       "steps": [
-        "Put a cone in the lane as the help defender.",
-        "Start at the wing in triple threat. Flip the coin and don't look yet.",
-        "Drive hard to the cone, then check the coin.",
-        "Heads, help came: jump stop and pivot out to pass. Tails, no help: finish the layup.",
-        "Say your read out loud before you make the play."
+        "Start at the top of the key with the ball. Your partner stands under the rim facing you.",
+        "Drive toward the elbow. Your partner flashes a signal halfway there.",
+        "One hand high means pull up and shoot. Hands low means drive to the rim.",
+        "Two hands out means jump stop and pass to them.",
+        "Go 8 reps, then switch roles and repeat."
       ],
       "cues": [
-        "Read the help",
-        "Call it out",
-        "Two feet, pivot"
+        "See it early",
+        "Decide fast",
+        "No hesitation"
       ]
     },
     {
-      "id": "daily-2026-11-13-3",
-      "name": "Pass-Fake Pull-Ups",
+      "id": "daily-2026-11-14-3",
+      "name": "Jab Step Triple Threat",
       "category": "SH",
       "seconds": 240,
-      "equipment": "1 ball, 1 cone",
-      "summary": "Sell a pass to move the defense, then rip into a one-dribble pull-up.",
+      "equipment": "1 ball",
+      "summary": "Use a hard jab to set up the shot or the drive from a catch.",
       "steps": [
-        "Set a cone at the free throw line extended.",
-        "Start at the top. Make a hard pass fake to the wing with your eyes and arms.",
-        "Rip the ball low and take one hard dribble toward the cone.",
-        "Stop on balance and shoot the pull-up.",
-        "Rebound, go back to the top and fake the other way."
+        "Start on the right wing in triple threat, ball at your hip.",
+        "Jab hard with your right foot and watch the imaginary defender.",
+        "If they back off, bring the foot back and shoot.",
+        "If they close, rip through and take one hard dribble to a pull-up.",
+        "Do 3 minutes on the right wing, then 1 minute on the left wing."
       ],
       "cues": [
-        "Sell the pass",
-        "Rip low",
-        "Shoulders square"
+        "Sell the jab",
+        "Chin the ball",
+        "Balanced base"
       ]
     },
     {
-      "id": "daily-2026-11-13-4",
-      "name": "Half-Court Turn Layups",
-      "category": "FN",
-      "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Finish at the rim, sprint to half court and back, then finish again tired.",
+      "id": "daily-2026-11-14-4",
+      "name": "Square Slide Circuit",
+      "category": "DF",
+      "seconds": 300,
+      "equipment": "4 cones",
+      "summary": "Slide, backpedal, sprint and close out around a box to build defensive legs.",
       "steps": [
-        "Start at the right wing and make a right-hand layup.",
-        "Grab the ball and speed dribble to half court.",
-        "Turn at half court and attack the left side for a left-hand layup.",
-        "Keep going for 45 seconds, then rest 15 seconds.",
-        "Count your makes each round and try to beat it."
+        "Set 4 cones in a square about 5 big steps apart.",
+        "Defensive slide across the top from cone 1 to cone 2.",
+        "Backpedal down to cone 3, then slide across to cone 4.",
+        "Sprint diagonally to cone 2 and finish with a choppy closeout, hands high.",
+        "Go 40 seconds on, 20 seconds rest. Switch directions each round."
       ],
       "cues": [
-        "Finish strong",
-        "Sprint the turn",
-        "Right hand, left hand"
+        "Don't cross feet",
+        "Hips low",
+        "Chop your feet"
       ]
     }
   ]
