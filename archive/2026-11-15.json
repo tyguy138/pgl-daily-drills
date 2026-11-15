@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-15",
+  "name": "Drive Reads & Shooting",
+  "summary": "Warm up your handle, shoot off a hop, read a help defender on the drive, then make free throws on tired legs.",
+  "drills": [
+    {
+      "id": "daily-2026-11-15-1",
+      "name": "Dribble Tap Touches",
+      "category": "BH",
+      "seconds": 150,
+      "equipment": "1 ball",
+      "summary": "Control the dribble while your off hand moves and your eyes stay up.",
+      "steps": [
+        "Pound the ball hard at your right side.",
+        "Tap your left knee, then your left shoulder, then your head with your free hand.",
+        "Keep the dribble going the whole time.",
+        "Switch hands every 30 seconds.",
+        "Last minute, go faster and keep your chin up."
+      ],
+      "cues": [
+        "Eyes up",
+        "Pound it hard",
+        "Don't lose rhythm"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-2",
+      "name": "Hop Gather Jumpers",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Catch on a two-foot hop and rise into a balanced jumper.",
+      "steps": [
+        "Start at the right elbow with the ball.",
+        "Spin the ball out a step in front of you.",
+        "Hop into the catch and land on both feet at once.",
+        "Rise straight up and shoot.",
+        "Move through five spots in the lane and midrange, then repeat."
+      ],
+      "cues": [
+        "Land on two",
+        "Hips down",
+        "Hold the follow-through"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-3",
+      "name": "Help Step Drive Reads",
+      "category": "IQ",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, partner",
+      "summary": "Drive the lane and read if the help defender steps up or stays home.",
+      "steps": [
+        "Start at the top of the key. Your partner stands on the weak-side block.",
+        "Drive hard toward the rim.",
+        "If your partner steps up into the lane, jump stop and pass to the spot they left.",
+        "If they stay home, finish the layup.",
+        "Partner mixes it up. No contact, just show the help.",
+        "Switch drive directions every rep."
+      ],
+      "cues": [
+        "See the help",
+        "Ball to open",
+        "Decide early"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-4",
+      "name": "Wall Sit Pressure Free Throws",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, a wall or post",
+      "summary": "Burn your legs, then make free throws when you're tired.",
+      "steps": [
+        "Wall sit for 30 seconds with knees at 90 degrees.",
+        "Walk straight to the free throw line.",
+        "Shoot two free throws using your full routine.",
+        "Keep track of your makes.",
+        "Repeat for four minutes and try to beat your score next time."
+      ],
+      "cues": [
+        "Same routine",
+        "Breathe first",
+        "Legs in shot"
+      ]
+    }
+  ]
+}
