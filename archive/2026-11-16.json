@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-16",
+  "name": "Handles, Shooting & Contain",
+  "summary": "Tighten your handle, shoot off a baseline drift, wall off drives, then finish with jumpers on tired legs.",
+  "drills": [
+    {
+      "id": "daily-2026-11-16-1",
+      "name": "Freeze-Frame Dribbles",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Stay in control at speed by stopping the ball dead on your own count.",
+      "steps": [
+        "Pound dribble with your right hand at waist height.",
+        "Every fourth dribble, catch the ball and freeze it on your hip in triple threat.",
+        "Hold for one second, then rip back into the dribble.",
+        "Switch to your left hand after 45 seconds.",
+        "Finish with crossovers, freezing on the hip after every third cross."
+      ],
+      "cues": [
+        "Eyes up",
+        "Hard freeze",
+        "Rip it low"
+      ]
+    },
+    {
+      "id": "daily-2026-11-16-2",
+      "name": "Baseline Drift Jumpers",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 cone",
+      "summary": "Drift to the open spot when a teammate drives baseline, then catch and shoot.",
+      "steps": [
+        "Put a cone on the wing as the driver. Start at the slot on the same side.",
+        "Picture the driver going baseline. Drift down to the corner with your hands ready.",
+        "Self-toss to your shooting pocket as you land in the corner.",
+        "Shoot on the catch with feet set. Grab your rebound.",
+        "Do 5 shots, then switch sides."
+      ],
+      "cues": [
+        "Drift with it",
+        "Hands ready",
+        "Feet set"
+      ]
+    },
+    {
+      "id": "daily-2026-11-16-3",
+      "name": "Baseline Force Slides",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "3 cones",
+      "summary": "Force the ball to the baseline and cut it off before the rim.",
+      "steps": [
+        "Set one cone on the wing, one in the corner, one on the block.",
+        "Start in a stance at the wing cone with your top foot high to take away middle.",
+        "Slide hard to the corner cone without crossing your feet.",
+        "Drop step and slide to the block cone to cut off the baseline drive.",
+        "Sprint back to the wing and repeat. Switch sides at halftime."
+      ],
+      "cues": [
+        "Top foot high",
+        "Beat him there",
+        "Stay low"
+      ]
+    },
+    {
+      "id": "daily-2026-11-16-4",
+      "name": "Elbow Sprint-Back Jumpers",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Hit elbow jumpers on tired legs after every sprint to half court.",
+      "steps": [
+        "Start at the right elbow with the ball.",
+        "Shoot a jumper and grab your rebound.",
+        "Dribble hard to half court and touch the line.",
+        "Sprint dribble back to the left elbow and shoot again.",
+        "Keep going, switching elbows each rep, until the timer ends. Count your makes."
+      ],
+      "cues": [
+        "Legs under you",
+        "Same shot tired",
+        "Push the pace"
+      ]
+    }
+  ]
+}

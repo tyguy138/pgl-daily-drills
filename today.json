@@ -1,87 +1,86 @@
 {
-  "date": "2026-11-15",
-  "name": "Drive Reads & Shooting",
-  "summary": "Warm up your handle, shoot off a hop, read a help defender on the drive, then make free throws on tired legs.",
+  "date": "2026-11-16",
+  "name": "Handles, Shooting & Contain",
+  "summary": "Tighten your handle, shoot off a baseline drift, wall off drives, then finish with jumpers on tired legs.",
   "drills": [
     {
-      "id": "daily-2026-11-15-1",
-      "name": "Dribble Tap Touches",
+      "id": "daily-2026-11-16-1",
+      "name": "Freeze-Frame Dribbles",
       "category": "BH",
-      "seconds": 150,
+      "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Control the dribble while your off hand moves and your eyes stay up.",
+      "summary": "Stay in control at speed by stopping the ball dead on your own count.",
       "steps": [
-        "Pound the ball hard at your right side.",
-        "Tap your left knee, then your left shoulder, then your head with your free hand.",
-        "Keep the dribble going the whole time.",
-        "Switch hands every 30 seconds.",
-        "Last minute, go faster and keep your chin up."
+        "Pound dribble with your right hand at waist height.",
+        "Every fourth dribble, catch the ball and freeze it on your hip in triple threat.",
+        "Hold for one second, then rip back into the dribble.",
+        "Switch to your left hand after 45 seconds.",
+        "Finish with crossovers, freezing on the hip after every third cross."
       ],
       "cues": [
         "Eyes up",
-        "Pound it hard",
-        "Don't lose rhythm"
+        "Hard freeze",
+        "Rip it low"
       ]
     },
     {
-      "id": "daily-2026-11-15-2",
-      "name": "Hop Gather Jumpers",
+      "id": "daily-2026-11-16-2",
+      "name": "Baseline Drift Jumpers",
       "category": "SH",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Catch on a two-foot hop and rise into a balanced jumper.",
+      "equipment": "1 ball, 1 cone",
+      "summary": "Drift to the open spot when a teammate drives baseline, then catch and shoot.",
       "steps": [
-        "Start at the right elbow with the ball.",
-        "Spin the ball out a step in front of you.",
-        "Hop into the catch and land on both feet at once.",
-        "Rise straight up and shoot.",
-        "Move through five spots in the lane and midrange, then repeat."
+        "Put a cone on the wing as the driver. Start at the slot on the same side.",
+        "Picture the driver going baseline. Drift down to the corner with your hands ready.",
+        "Self-toss to your shooting pocket as you land in the corner.",
+        "Shoot on the catch with feet set. Grab your rebound.",
+        "Do 5 shots, then switch sides."
       ],
       "cues": [
-        "Land on two",
-        "Hips down",
-        "Hold the follow-through"
+        "Drift with it",
+        "Hands ready",
+        "Feet set"
       ]
     },
     {
-      "id": "daily-2026-11-15-3",
-      "name": "Help Step Drive Reads",
-      "category": "IQ",
-      "seconds": 240,
-      "equipment": "1 ball, 1 hoop, partner",
-      "summary": "Drive the lane and read if the help defender steps up or stays home.",
+      "id": "daily-2026-11-16-3",
+      "name": "Baseline Force Slides",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "3 cones",
+      "summary": "Force the ball to the baseline and cut it off before the rim.",
       "steps": [
-        "Start at the top of the key. Your partner stands on the weak-side block.",
-        "Drive hard toward the rim.",
-        "If your partner steps up into the lane, jump stop and pass to the spot they left.",
-        "If they stay home, finish the layup.",
-        "Partner mixes it up. No contact, just show the help.",
-        "Switch drive directions every rep."
+        "Set one cone on the wing, one in the corner, one on the block.",
+        "Start in a stance at the wing cone with your top foot high to take away middle.",
+        "Slide hard to the corner cone without crossing your feet.",
+        "Drop step and slide to the block cone to cut off the baseline drive.",
+        "Sprint back to the wing and repeat. Switch sides at halftime."
       ],
       "cues": [
-        "See the help",
-        "Ball to open",
-        "Decide early"
+        "Top foot high",
+        "Beat him there",
+        "Stay low"
       ]
     },
     {
-      "id": "daily-2026-11-15-4",
-      "name": "Wall Sit Pressure Free Throws",
+      "id": "daily-2026-11-16-4",
+      "name": "Elbow Sprint-Back Jumpers",
       "category": "CN",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop, a wall or post",
-      "summary": "Burn your legs, then make free throws when you're tired.",
+      "equipment": "1 ball",
+      "summary": "Hit elbow jumpers on tired legs after every sprint to half court.",
       "steps": [
-        "Wall sit for 30 seconds with knees at 90 degrees.",
-        "Walk straight to the free throw line.",
-        "Shoot two free throws using your full routine.",
-        "Keep track of your makes.",
-        "Repeat for four minutes and try to beat your score next time."
+        "Start at the right elbow with the ball.",
+        "Shoot a jumper and grab your rebound.",
+        "Dribble hard to half court and touch the line.",
+        "Sprint dribble back to the left elbow and shoot again.",
+        "Keep going, switching elbows each rep, until the timer ends. Count your makes."
       ],
       "cues": [
-        "Same routine",
-        "Breathe first",
-        "Legs in shot"
+        "Legs under you",
+        "Same shot tired",
+        "Push the pace"
       ]
     }
   ]
