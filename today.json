@@ -1,86 +1,88 @@
 {
-  "date": "2026-11-16",
-  "name": "Handles, Shooting & Contain",
-  "summary": "Tighten your handle, shoot off a baseline drift, wall off drives, then finish with jumpers on tired legs.",
+  "date": "2026-11-17",
+  "name": "Gap Reads & Finishing",
+  "summary": "Warm up your handle, read gaps between defenders, then finish at the rim through jump stops and tired attack rounds.",
   "drills": [
     {
-      "id": "daily-2026-11-16-1",
-      "name": "Freeze-Frame Dribbles",
+      "id": "daily-2026-11-17-1",
+      "name": "Two-Speed Lane Dribbles",
       "category": "BH",
       "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Stay in control at speed by stopping the ball dead on your own count.",
+      "summary": "Wake up your hands by switching between slow control and fast pushes.",
       "steps": [
-        "Pound dribble with your right hand at waist height.",
-        "Every fourth dribble, catch the ball and freeze it on your hip in triple threat.",
-        "Hold for one second, then rip back into the dribble.",
-        "Switch to your left hand after 45 seconds.",
-        "Finish with crossovers, freezing on the hip after every third cross."
+        "Start on the baseline at the edge of the lane.",
+        "Walk to the free-throw line with low, hard dribbles.",
+        "Speed up to a run from the free-throw line to half court.",
+        "Turn and come back the same way with your other hand.",
+        "Switch hands every trip and keep the ball off your hip."
       ],
       "cues": [
+        "Slow, then fast",
         "Eyes up",
-        "Hard freeze",
-        "Rip it low"
+        "Pound it low"
       ]
     },
     {
-      "id": "daily-2026-11-16-2",
-      "name": "Baseline Drift Jumpers",
-      "category": "SH",
-      "seconds": 240,
-      "equipment": "1 ball, 1 cone",
-      "summary": "Drift to the open spot when a teammate drives baseline, then catch and shoot.",
-      "steps": [
-        "Put a cone on the wing as the driver. Start at the slot on the same side.",
-        "Picture the driver going baseline. Drift down to the corner with your hands ready.",
-        "Self-toss to your shooting pocket as you land in the corner.",
-        "Shoot on the catch with feet set. Grab your rebound.",
-        "Do 5 shots, then switch sides."
-      ],
-      "cues": [
-        "Drift with it",
-        "Hands ready",
-        "Feet set"
-      ]
-    },
-    {
-      "id": "daily-2026-11-16-3",
-      "name": "Baseline Force Slides",
-      "category": "DF",
+      "id": "daily-2026-11-17-2",
+      "name": "Two-Cone Gap Reads",
+      "category": "IQ",
       "seconds": 180,
-      "equipment": "3 cones",
-      "summary": "Force the ball to the baseline and cut it off before the rim.",
+      "equipment": "1 ball, 2 cones, a wall",
+      "summary": "Read the space between two defenders and pick the right answer fast.",
       "steps": [
-        "Set one cone on the wing, one in the corner, one on the block.",
-        "Start in a stance at the wing cone with your top foot high to take away middle.",
-        "Slide hard to the corner cone without crossing your feet.",
-        "Drop step and slide to the block cone to cut off the baseline drive.",
-        "Sprint back to the wing and repeat. Switch sides at halftime."
+        "Set two cones at the top of the key as defenders.",
+        "Move them close together or far apart before each rep.",
+        "Attack from half court and look at the gap early.",
+        "Big gap: split it and drive to the rim.",
+        "Small gap: stop, pull back two dribbles and pass to the wall.",
+        "Change the gap every rep so you can't guess."
       ],
       "cues": [
-        "Top foot high",
-        "Beat him there",
-        "Stay low"
+        "See it early",
+        "Split or kick",
+        "No guessing"
       ]
     },
     {
-      "id": "daily-2026-11-16-4",
-      "name": "Elbow Sprint-Back Jumpers",
-      "category": "CN",
+      "id": "daily-2026-11-17-3",
+      "name": "Jump-Stop Pivot Finishes",
+      "category": "FN",
       "seconds": 240,
       "equipment": "1 ball",
-      "summary": "Hit elbow jumpers on tired legs after every sprint to half court.",
+      "summary": "Stop on balance in the paint, then pivot to an open finish.",
       "steps": [
-        "Start at the right elbow with the ball.",
-        "Shoot a jumper and grab your rebound.",
-        "Dribble hard to half court and touch the line.",
-        "Sprint dribble back to the left elbow and shoot again.",
-        "Keep going, switching elbows each rep, until the timer ends. Count your makes."
+        "Drive from the wing with two hard dribbles.",
+        "Land a two-foot jump stop just outside the block.",
+        "Pivot away from an imaginary help defender.",
+        "Finish off the glass with the hand away from the help.",
+        "Do 5 reps on each side, then switch which foot you pivot on."
       ],
       "cues": [
-        "Legs under you",
-        "Same shot tired",
-        "Push the pace"
+        "Two feet, balanced",
+        "Chin the ball",
+        "Pivot, then finish"
+      ]
+    },
+    {
+      "id": "daily-2026-11-17-4",
+      "name": "Four-Spot Attack Rounds",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball, 4 cones",
+      "summary": "Attack from four spots in a row and finish strong while tired.",
+      "steps": [
+        "Put cones in both corners and on both wings.",
+        "Start at one corner, drive baseline and finish.",
+        "Grab the rebound and sprint the ball out to the next cone.",
+        "Attack from that cone with a different move each time.",
+        "Keep going around all four cones for 60 seconds.",
+        "Rest 30 seconds and run 4 rounds total."
+      ],
+      "cues": [
+        "Sprint every spot",
+        "Finish tired",
+        "Stay under control"
       ]
     }
   ]
