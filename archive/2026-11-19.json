@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-19",
+  "name": "Handles, Jumpers & Slides",
+  "summary": "Tighten your handle, groove a rhythm jumper, cut off drives on defense, then finish tired at game speed.",
+  "drills": [
+    {
+      "id": "daily-2026-11-19-1",
+      "name": "Pocket-to-Rip Dribbles",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball",
+      "summary": "Protect the ball low, then rip it across your body fast.",
+      "steps": [
+        "Get in a low stance and pound 10 hard dribbles with your right hand.",
+        "Pull the ball into your hip pocket and hold it for one count.",
+        "Rip it low across your body and pound 10 with your left.",
+        "Keep going side to side for 2 minutes.",
+        "Last minute: rip into one hard dribble and an explosive first step each way."
+      ],
+      "cues": [
+        "Low and tight",
+        "Rip it hard",
+        "Eyes up"
+      ]
+    },
+    {
+      "id": "daily-2026-11-19-2",
+      "name": "Three-Spot Rhythm Jumpers",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 3 cones",
+      "summary": "Catch on a hop and shoot the same shot from three spots.",
+      "steps": [
+        "Set cones at the right elbow, top of the key and left elbow.",
+        "Stand 2 steps behind a cone and spin the ball out in front of you.",
+        "Hop into the catch with your feet set and shoot.",
+        "Make 3 at a spot before you move to the next cone.",
+        "Go around all three spots twice."
+      ],
+      "cues": [
+        "Feet ready early",
+        "Same shot",
+        "Hold the finish"
+      ]
+    },
+    {
+      "id": "daily-2026-11-19-3",
+      "name": "Sideline Wall-Off Slides",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "2 cones",
+      "summary": "Slide hard and cut off the drive before it turns the corner.",
+      "steps": [
+        "Set two cones 4 big steps apart along the sideline.",
+        "Get in stance facing the court, top foot a little higher than the other.",
+        "Slide cone to cone without crossing your feet.",
+        "At each cone, drop your hip and stab your hand out like you're cutting off a drive.",
+        "Work 30 seconds, rest 15, and repeat for 3 minutes."
+      ],
+      "cues": [
+        "Stay low",
+        "Beat him there",
+        "Hands active"
+      ]
+    },
+    {
+      "id": "daily-2026-11-19-4",
+      "name": "Corner-to-Corner Burst Layups",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Speed dribble, change direction and finish strong when your legs are tired.",
+      "steps": [
+        "Start in the right corner with the ball.",
+        "Speed dribble to the top of the key, plant hard and attack the left side of the rim.",
+        "Finish a left-hand layup, grab the rebound and dribble out to the left corner.",
+        "Repeat the other way and finish with your right hand.",
+        "Go 40 seconds on, 20 seconds rest for 4 rounds. Count your makes and beat it each round."
+      ],
+      "cues": [
+        "Push the pace",
+        "Plant and go",
+        "High off glass"
+      ]
+    }
+  ]
+}
