@@ -1,86 +1,83 @@
 {
-  "date": "2026-11-19",
-  "name": "Handles, Jumpers & Slides",
-  "summary": "Tighten your handle, groove a rhythm jumper, cut off drives on defense, then finish tired at game speed.",
+  "date": "2026-11-20",
+  "name": "Pivot Footwork & Finishing",
+  "summary": "Warm up your hands, shoot off strong pivots, protect the ball on finishes, then make free throws while tired.",
   "drills": [
     {
-      "id": "daily-2026-11-19-1",
-      "name": "Pocket-to-Rip Dribbles",
+      "id": "daily-2026-11-20-1",
+      "name": "Ball Wrap Warm-Up",
       "category": "BH",
-      "seconds": 180,
+      "seconds": 150,
       "equipment": "1 ball",
-      "summary": "Protect the ball low, then rip it across your body fast.",
+      "summary": "Wake up your hands by moving the ball fast around your body before you dribble.",
       "steps": [
-        "Get in a low stance and pound 10 hard dribbles with your right hand.",
-        "Pull the ball into your hip pocket and hold it for one count.",
-        "Rip it low across your body and pound 10 with your left.",
-        "Keep going side to side for 2 minutes.",
-        "Last minute: rip into one hard dribble and an explosive first step each way."
+        "Wrap the ball around your head 10 times each way.",
+        "Wrap it around your waist 10 times each way.",
+        "Wrap it around both knees, then each leg, 10 times each way.",
+        "Finish with 30 seconds of hard pounds, right then left, eyes up."
       ],
       "cues": [
-        "Low and tight",
-        "Rip it hard",
+        "Fingertips only",
+        "Keep it tight",
         "Eyes up"
       ]
     },
     {
-      "id": "daily-2026-11-19-2",
-      "name": "Three-Spot Rhythm Jumpers",
+      "id": "daily-2026-11-20-2",
+      "name": "Pivot Rip Jumpers",
       "category": "SH",
       "seconds": 240,
-      "equipment": "1 ball, 3 cones",
-      "summary": "Catch on a hop and shoot the same shot from three spots.",
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Catch, pivot, rip the ball through and shoot on balance.",
       "steps": [
-        "Set cones at the right elbow, top of the key and left elbow.",
-        "Stand 2 steps behind a cone and spin the ball out in front of you.",
-        "Hop into the catch with your feet set and shoot.",
-        "Make 3 at a spot before you move to the next cone.",
-        "Go around all three spots twice."
+        "Spin the ball out to yourself at the elbow and catch on two feet.",
+        "Front pivot to face the rim, then rip the ball low across your knees.",
+        "Rise into a balanced jumper from the elbow.",
+        "Next rep, use a reverse pivot. Switch elbows every 5 shots."
       ],
       "cues": [
-        "Feet ready early",
-        "Same shot",
+        "Low and hard",
+        "Square up",
         "Hold the finish"
       ]
     },
     {
-      "id": "daily-2026-11-19-3",
-      "name": "Sideline Wall-Off Slides",
-      "category": "DF",
-      "seconds": 180,
-      "equipment": "2 cones",
-      "summary": "Slide hard and cut off the drive before it turns the corner.",
+      "id": "daily-2026-11-20-3",
+      "name": "Low-Pocket Gather Finishes",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop, 1 cone",
+      "summary": "Gather the ball low and away from the help, then finish high off the glass.",
       "steps": [
-        "Set two cones 4 big steps apart along the sideline.",
-        "Get in stance facing the court, top foot a little higher than the other.",
-        "Slide cone to cone without crossing your feet.",
-        "At each cone, drop your hip and stab your hand out like you're cutting off a drive.",
-        "Work 30 seconds, rest 15, and repeat for 3 minutes."
+        "Set a cone on the block as a help defender.",
+        "Attack from the wing with one or two hard dribbles.",
+        "Gather the ball low on your outside hip, away from the cone.",
+        "Bring it up high and finish off the glass with your outside hand.",
+        "Do 5 makes each side, then switch blocks."
       ],
       "cues": [
-        "Stay low",
-        "Beat him there",
-        "Hands active"
+        "Hide the ball",
+        "Rise high",
+        "Soft off glass"
       ]
     },
     {
-      "id": "daily-2026-11-19-4",
-      "name": "Corner-to-Corner Burst Layups",
-      "category": "FN",
+      "id": "daily-2026-11-20-4",
+      "name": "Miss-and-Run Free Throws",
+      "category": "CN",
       "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Speed dribble, change direction and finish strong when your legs are tired.",
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Shoot free throws while tired and pay for every miss with a sprint.",
       "steps": [
-        "Start in the right corner with the ball.",
-        "Speed dribble to the top of the key, plant hard and attack the left side of the rim.",
-        "Finish a left-hand layup, grab the rebound and dribble out to the left corner.",
-        "Repeat the other way and finish with your right hand.",
-        "Go 40 seconds on, 20 seconds rest for 4 rounds. Count your makes and beat it each round."
+        "Sprint baseline to half court and back to start the round.",
+        "Walk to the line and shoot 2 free throws.",
+        "Make both: rest 10 seconds. Miss one: sprint baseline to half court and back.",
+        "Keep going until time runs out. Count your makes."
       ],
       "cues": [
-        "Push the pace",
-        "Plant and go",
-        "High off glass"
+        "Same routine",
+        "Breathe first",
+        "Finish tall"
       ]
     }
   ]
