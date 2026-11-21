@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-21",
+  "name": "Handles Under Pressure",
+  "summary": "Tighten your crossover, shoot mid-range makes, read a soft trap with a partner and finish with a tough dribble shuttle.",
+  "drills": [
+    {
+      "id": "daily-2026-11-21-1",
+      "name": "Push-Pull Crossovers",
+      "category": "BH",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Push the ball forward, pull it back and cross it over without losing your eyes.",
+      "steps": [
+        "Start at the baseline in a low stance.",
+        "Push the ball out in front, then pull it back to your hip.",
+        "Cross it over low to the other hand.",
+        "Take two steps forward and repeat up the floor.",
+        "Come back with the other hand leading."
+      ],
+      "cues": [
+        "Eyes up",
+        "Low and quick",
+        "Pull to hip"
+      ]
+    },
+    {
+      "id": "daily-2026-11-21-2",
+      "name": "Fifteen-Foot Arc Makes",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 5 cones",
+      "summary": "Hit three makes from each spot on a 15-foot arc before you move on.",
+      "steps": [
+        "Set 5 cones around the paint at 15 feet: both baselines, both wings and the top.",
+        "Shoot from the first cone. Get your own rebound.",
+        "Make 3 before you move to the next cone.",
+        "Go around once, then come back the other way."
+      ],
+      "cues": [
+        "Same shot",
+        "Hold the finish",
+        "Feet set first"
+      ]
+    },
+    {
+      "id": "daily-2026-11-21-3",
+      "name": "Soft Trap Escapes",
+      "category": "IQ",
+      "seconds": 240,
+      "equipment": "1 ball, partner",
+      "summary": "Read a soft trap and pick the right escape: retreat, split or pass.",
+      "steps": [
+        "Dribble at the wing. Your partner stands near the sideline.",
+        "Partner jogs at you with hands high. No reaching or contact.",
+        "If they cut off the sideline, retreat two dribbles and reset.",
+        "If they come too high, attack past their outside hip.",
+        "If they stay square, pick up the ball at the right time and fake a pass, then go.",
+        "Switch roles every 60 seconds."
+      ],
+      "cues": [
+        "See the angle",
+        "Retreat, don't panic",
+        "Protect the ball"
+      ]
+    },
+    {
+      "id": "daily-2026-11-21-4",
+      "name": "Half-Court Dribble Shuttles",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Speed dribble shuttles to half court and back, keeping control when you're tired.",
+      "steps": [
+        "Start on the baseline with the ball.",
+        "Speed dribble to the free-throw line and back.",
+        "Speed dribble to half court and back.",
+        "Rest 20 seconds, then go again.",
+        "Use your weak hand on every other round."
+      ],
+      "cues": [
+        "Push it out",
+        "Chop to stop",
+        "Finish strong"
+      ]
+    }
+  ]
+}
