@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-21",
-  "name": "Handles Under Pressure",
-  "summary": "Tighten your crossover, shoot mid-range makes, read a soft trap with a partner and finish with a tough dribble shuttle.",
+  "date": "2026-11-22",
+  "name": "Handles & Shot Footwork",
+  "summary": "Loosen up your handle, sharpen your footwork into jumpers, lock in your defensive stance, then finish with hard conditioning bursts.",
   "drills": [
     {
-      "id": "daily-2026-11-21-1",
-      "name": "Push-Pull Crossovers",
+      "id": "daily-2026-11-22-1",
+      "name": "Shamgod Walk-Throughs",
       "category": "BH",
-      "seconds": 240,
+      "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Push the ball forward, pull it back and cross it over without losing your eyes.",
+      "summary": "Learn the push-and-pull of the Shamgod slowly, then add speed.",
       "steps": [
-        "Start at the baseline in a low stance.",
-        "Push the ball out in front, then pull it back to your hip.",
-        "Cross it over low to the other hand.",
-        "Take two steps forward and repeat up the floor.",
-        "Come back with the other hand leading."
-      ],
-      "cues": [
-        "Eyes up",
-        "Low and quick",
-        "Pull to hip"
-      ]
-    },
-    {
-      "id": "daily-2026-11-21-2",
-      "name": "Fifteen-Foot Arc Makes",
-      "category": "SH",
-      "seconds": 240,
-      "equipment": "1 ball, 5 cones",
-      "summary": "Hit three makes from each spot on a 15-foot arc before you move on.",
-      "steps": [
-        "Set 5 cones around the paint at 15 feet: both baselines, both wings and the top.",
-        "Shoot from the first cone. Get your own rebound.",
-        "Make 3 before you move to the next cone.",
-        "Go around once, then come back the other way."
-      ],
-      "cues": [
-        "Same shot",
-        "Hold the finish",
-        "Feet set first"
-      ]
-    },
-    {
-      "id": "daily-2026-11-21-3",
-      "name": "Soft Trap Escapes",
-      "category": "IQ",
-      "seconds": 240,
-      "equipment": "1 ball, partner",
-      "summary": "Read a soft trap and pick the right escape: retreat, split or pass.",
-      "steps": [
-        "Dribble at the wing. Your partner stands near the sideline.",
-        "Partner jogs at you with hands high. No reaching or contact.",
-        "If they cut off the sideline, retreat two dribbles and reset.",
-        "If they come too high, attack past their outside hip.",
-        "If they stay square, pick up the ball at the right time and fake a pass, then go.",
-        "Switch roles every 60 seconds."
-      ],
-      "cues": [
-        "See the angle",
-        "Retreat, don't panic",
-        "Protect the ball"
-      ]
-    },
-    {
-      "id": "daily-2026-11-21-4",
-      "name": "Half-Court Dribble Shuttles",
-      "category": "CN",
-      "seconds": 240,
-      "equipment": "1 ball",
-      "summary": "Speed dribble shuttles to half court and back, keeping control when you're tired.",
-      "steps": [
-        "Start on the baseline with the ball.",
-        "Speed dribble to the free-throw line and back.",
-        "Speed dribble to half court and back.",
-        "Rest 20 seconds, then go again.",
-        "Use your weak hand on every other round."
+        "Walk forward and push the ball out wide with your right hand.",
+        "Pull it back across your body with your left hand.",
+        "Step through with your right foot as the ball comes back.",
+        "Do 10 slow reps, then 10 at jog speed.",
+        "Switch hands and repeat."
       ],
       "cues": [
         "Push it out",
-        "Chop to stop",
-        "Finish strong"
+        "Snap it back",
+        "Stay low"
+      ]
+    },
+    {
+      "id": "daily-2026-11-22-2",
+      "name": "Hop vs. 1-2 Step Jumpers",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Shoot off both footwork patterns and feel which one balances you best.",
+      "steps": [
+        "Start at the right elbow with the ball. Toss it out and catch it on a hop.",
+        "Land on both feet at once, square up and shoot.",
+        "Next rep, catch it and land inside foot first, then outside foot (1-2).",
+        "Alternate hop and 1-2 for 10 shots per elbow.",
+        "Finish with 5 shots each way from both wings."
+      ],
+      "cues": [
+        "Feet before ball",
+        "Land balanced",
+        "Hold the finish"
+      ]
+    },
+    {
+      "id": "daily-2026-11-22-3",
+      "name": "Active Hands Stance Ladder",
+      "category": "DF",
+      "seconds": 180,
+      "equipment": "No equipment",
+      "summary": "Build stance strength and active hands that bother the ball.",
+      "steps": [
+        "Get in a low stance with your feet wider than your shoulders.",
+        "Hold for 20 seconds while you flick your hands at an imaginary ball.",
+        "Slide 3 steps right, then 3 steps left, without your feet touching.",
+        "Hold the stance again for 20 seconds.",
+        "Repeat the hold-and-slide ladder until the timer ends."
+      ],
+      "cues": [
+        "Butt down",
+        "Busy hands",
+        "Don't click heels"
+      ]
+    },
+    {
+      "id": "daily-2026-11-22-4",
+      "name": "Baseline-to-Elbow Burst Reps",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Short sprints with a shot at the end to train scoring while tired.",
+      "steps": [
+        "Start on the baseline with the ball.",
+        "Speed dribble to the right elbow, then pull up and shoot.",
+        "Grab your rebound and sprint back to the baseline.",
+        "Repeat to the left elbow.",
+        "Go nonstop for 45 seconds, rest 15, and repeat 4 rounds."
+      ],
+      "cues": [
+        "Sprint, then stop",
+        "Legs in the shot",
+        "Beat the clock"
       ]
     }
   ]
