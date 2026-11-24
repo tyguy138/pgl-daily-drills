@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-24",
+  "name": "Wing Attacks & Recovery",
+  "summary": "Warm up your handle with your eyes up, score off the wing with jumpers and layups, then finish with defensive recovery work.",
+  "drills": [
+    {
+      "id": "daily-2026-11-24-1",
+      "name": "Eyes-Up Wall Dribbles",
+      "category": "BH",
+      "seconds": 180,
+      "equipment": "1 ball, a wall or fence",
+      "summary": "Handle the ball without looking at it by locking your eyes on a target.",
+      "steps": [
+        "Stand 10 feet from a wall and pick one spot on it at head height.",
+        "Dribble right hand 20 times, then left hand 20 times, eyes on the spot.",
+        "Switch to crossovers, then between-the-legs, 20 each.",
+        "Step back 5 feet and repeat the set at game speed."
+      ],
+      "cues": [
+        "Eyes on spot",
+        "Pound it hard",
+        "Stay low"
+      ]
+    },
+    {
+      "id": "daily-2026-11-24-2",
+      "name": "Wing One-Bounce Jumpers",
+      "category": "SH",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Score off one hard dribble from the wing going either way.",
+      "steps": [
+        "Start on the right wing in triple threat, just inside the arc.",
+        "Rip through and take one hard dribble toward the middle, then rise and shoot.",
+        "Next rep, take one dribble toward the baseline and shoot.",
+        "Get your own rebound, sprint back to the wing and repeat.",
+        "Switch to the left wing at the halfway point."
+      ],
+      "cues": [
+        "One hard bounce",
+        "Stop on balance",
+        "Hold the finish"
+      ]
+    },
+    {
+      "id": "daily-2026-11-24-3",
+      "name": "Inside-Hand Baseline Layups",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Drive the baseline and finish with the hand farther from the defender.",
+      "steps": [
+        "Start on the right wing and drive baseline with your right hand.",
+        "Finish with your right hand off the glass, body between the rim and the defender.",
+        "Next rep, drive and finish with a reverse layup on the far side of the rim.",
+        "Switch to the left wing and finish with your left hand.",
+        "Count your makes and try to beat it next round."
+      ],
+      "cues": [
+        "Body shields ball",
+        "High off glass",
+        "Soft touch"
+      ]
+    },
+    {
+      "id": "daily-2026-11-24-4",
+      "name": "Beaten-Step Recovery Runs",
+      "category": "DF",
+      "seconds": 240,
+      "equipment": "No equipment needed, or 2 cones",
+      "summary": "Practice getting beat, turning, sprinting and getting back in front.",
+      "steps": [
+        "Start in a stance at the elbow facing the baseline.",
+        "Slide three times to your right like you are guarding the ball.",
+        "Pretend the driver beats you: open your hips, sprint three steps toward the baseline.",
+        "Plant, drop back into a stance and slide three more times.",
+        "Rest 15 seconds and go the other direction. Repeat for the full time."
+      ],
+      "cues": [
+        "Turn and run",
+        "Beat him there",
+        "Sit back down"
+      ]
+    }
+  ]
+}
