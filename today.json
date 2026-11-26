@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-25",
-  "name": "Handles Into Finishing",
-  "summary": "Warm up your handle, shoot off your footwork, finish long at the rim, then shoot tired to close it out.",
+  "date": "2026-11-26",
+  "name": "Handles, Reads & Finishing",
+  "summary": "Warm up your handle, groove your shot from the slot, make fast decisions on a short clock, then finish at the rim with tired legs.",
   "drills": [
     {
-      "id": "daily-2026-11-25-1",
-      "name": "Front-Back V Dribbles",
+      "id": "daily-2026-11-26-1",
+      "name": "Behind-the-Back Walk-Ups",
       "category": "BH",
       "seconds": 180,
       "equipment": "1 ball",
-      "summary": "Control the ball front to back in a V shape with each hand.",
+      "summary": "Wake up your hands with controlled behind-the-back dribbles while you walk.",
       "steps": [
-        "Get in a low stance with the ball in your right hand.",
-        "Push the ball out in front, then pull it back behind your heel in a V.",
-        "Keep the dribble at knee height for 30 seconds.",
-        "Switch to your left hand for 30 seconds.",
-        "Finish with front-back Vs into a crossover every third dribble."
+        "Start on the baseline in a low stance.",
+        "Walk forward and go behind the back with every step.",
+        "Keep the ball tight to your hip and push it to the other hand.",
+        "At half court, turn around and walk back the same way.",
+        "Last minute, add a hard pound dribble before each behind-the-back."
       ],
       "cues": [
+        "Wrap the hip",
         "Eyes up",
-        "Stay low",
-        "Snap the wrist"
+        "Stay low"
       ]
     },
     {
-      "id": "daily-2026-11-25-2",
-      "name": "Short Corner Glide Jumpers",
+      "id": "daily-2026-11-26-2",
+      "name": "Slot Spot-Up Ladder",
       "category": "SH",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Glide from the short corner to the baseline and shoot on balance.",
+      "equipment": "1 ball",
+      "summary": "Hit two in a row from each slot spot before you move back.",
       "steps": [
-        "Start in the short corner on the right side.",
-        "Self-toss the ball to the baseline spot, 12 feet out.",
-        "Glide to it, catch on a 1-2 step and shoot.",
-        "Get your rebound and repeat on the same side for 2 minutes.",
-        "Switch to the left side for the last 2 minutes."
+        "Start at the right slot, just inside the free throw line extended.",
+        "Toss the ball out, catch on a hop, and shoot.",
+        "Make two in a row, then take one step back.",
+        "Climb three spots back, then switch to the left slot.",
+        "If you miss two straight, step back in one spot."
       ],
       "cues": [
-        "Feet before ball",
-        "Hold the follow-through",
+        "Feet ready early",
+        "Hold the finish",
         "Same shot"
       ]
     },
     {
-      "id": "daily-2026-11-25-3",
-      "name": "Long Stride Gather Finishes",
-      "category": "FN",
+      "id": "daily-2026-11-26-3",
+      "name": "Shot Clock Attack Reps",
+      "category": "IQ",
       "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Cover ground with a long last stride and finish high off the glass.",
+      "equipment": "1 ball, phone timer",
+      "summary": "Beat an 8-second clock and pick the best shot you can get.",
       "steps": [
-        "Start at the top of the key.",
-        "Attack the right side with two hard dribbles.",
-        "Gather on a long stride outside the block and finish high off the glass.",
-        "Do 6 reps right, then 6 reps left with the left hand.",
-        "Last minute: alternate sides every rep."
+        "Set your phone to beep every 8 seconds.",
+        "Start at half court with the ball when it beeps.",
+        "Attack and choose: layup, pull-up, or kick-out to a spot and shoot.",
+        "Get the shot off before the next beep.",
+        "Say your choice out loud before you shoot it."
       ],
       "cues": [
-        "Big last step",
-        "Ball high",
-        "Soft off glass"
+        "Decide early",
+        "Say it out loud",
+        "Beat the beep"
       ]
     },
     {
-      "id": "daily-2026-11-25-4",
-      "name": "Arc-Line Burst Circuits",
-      "category": "CN",
-      "seconds": 240,
-      "equipment": "1 ball, 1 hoop",
-      "summary": "Sprint the arc, then shoot a mid-range jumper while tired.",
+      "id": "daily-2026-11-26-4",
+      "name": "Three-Dribble Rim Attacks",
+      "category": "FN",
+      "seconds": 300,
+      "equipment": "1 ball",
+      "summary": "Get from the top of the key to the rim in three dribbles or less, then run back.",
       "steps": [
-        "Start in the right corner with the ball.",
-        "Speed dribble along the arc to the left corner.",
-        "Turn and speed dribble back to the top of the key.",
-        "Pull up for an elbow jumper, get the rebound and jog back to a corner.",
-        "Go for 40 seconds, rest 20 seconds, and repeat 4 rounds."
+        "Start at the top of the key, just behind the arc.",
+        "Attack the rim using three dribbles or fewer.",
+        "Finish with a right-hand layup on the right side, left hand on the left.",
+        "Grab the ball and sprint back to the top.",
+        "Alternate sides every rep and keep going until time runs out."
       ],
       "cues": [
-        "Push the pace",
-        "Stop on balance",
-        "Finish strong"
+        "Long strides",
+        "Eat up space",
+        "Finish soft"
       ]
     }
   ]
