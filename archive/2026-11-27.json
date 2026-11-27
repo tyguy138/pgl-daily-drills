@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-27",
+  "name": "Handles & Drive Passing",
+  "summary": "Warm up your handle low, read and pass off the drive, finish off the wrong foot, then push your handle through sprint intervals.",
+  "drills": [
+    {
+      "id": "daily-2026-11-27-1",
+      "name": "Kneeling Dribble Series",
+      "category": "BH",
+      "seconds": 150,
+      "equipment": "1 ball",
+      "summary": "Get your fingertips warm with the ball close to the floor.",
+      "steps": [
+        "Kneel on one knee and pound the ball hard with your right hand for 20 seconds.",
+        "Switch to your left hand for 20 seconds.",
+        "Do side-to-side dribbles in front of your knee, then switch hands.",
+        "Finish with crossovers in front of you, as quick as you can control.",
+        "Switch knees and repeat the full series."
+      ],
+      "cues": [
+        "Eyes up",
+        "Pound it hard",
+        "Fingertips only"
+      ]
+    },
+    {
+      "id": "daily-2026-11-27-2",
+      "name": "Wall Target Drive Passes",
+      "category": "IQ",
+      "seconds": 180,
+      "equipment": "1 ball, 1 cone, tape or chalk, a wall",
+      "summary": "Attack, read the help, and hit a target on the move.",
+      "steps": [
+        "Mark two targets on a wall: one high on the left, one low on the right.",
+        "Set a cone at the free throw line as the help defender.",
+        "Drive at the cone and call out 'high' or 'low' before you reach it.",
+        "Pass to the target you called with one hand off the dribble.",
+        "Alternate hands and change which target you call each rep."
+      ],
+      "cues": [
+        "Call it early",
+        "Pass off the bounce",
+        "Hit the target"
+      ]
+    },
+    {
+      "id": "daily-2026-11-27-3",
+      "name": "Same-Foot Layup Series",
+      "category": "FN",
+      "seconds": 240,
+      "equipment": "1 ball, 1 hoop",
+      "summary": "Finish off the 'wrong' foot to beat shot blockers' timing.",
+      "steps": [
+        "From the right wing, drive and jump off your right foot for a right-hand layup.",
+        "Do 5 makes, then switch to the left side, left foot, left hand.",
+        "Next, take off from the inside foot and finish with the outside hand.",
+        "Keep the ball high and away from where a defender would reach.",
+        "Finish with 5 makes per side at game speed."
+      ],
+      "cues": [
+        "Quick off one",
+        "Ball high",
+        "Soft off glass"
+      ]
+    },
+    {
+      "id": "daily-2026-11-27-4",
+      "name": "30-30 Sideline Dribble Sprints",
+      "category": "CN",
+      "seconds": 240,
+      "equipment": "1 ball",
+      "summary": "Hold a clean handle while you are tired.",
+      "steps": [
+        "Start on one sideline with the ball.",
+        "Speed dribble to the other sideline and back for 30 seconds.",
+        "Count your trips out loud.",
+        "Rest for 30 seconds, then go again.",
+        "Do 4 rounds and try to beat your trip count each round.",
+        "Use your weak hand on rounds 2 and 4."
+      ],
+      "cues": [
+        "Push it out",
+        "Touch the line",
+        "Stay low"
+      ]
+    }
+  ]
+}
